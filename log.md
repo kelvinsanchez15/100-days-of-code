@@ -16,3 +16,11 @@ and try to get rid of some bugs.
 **Thoughts:** Tomorrow I want to animate the quote change in my app, although I still don't know how to deal with it in React.
 
 **Link to work:** [Random Quote Machine](https://github.com/kelvinsanchez15/random-quote-machine)
+
+### Day 3: June 27, 2020 
+
+**Today's Progress**: I successfully submitted my Random Quote Machine project to FCC.
+
+**Thoughts:** I am planning to go over the basics of React again and try to learn how to make simple animations with simple components so that I can incorporate that knowledge into future projects.
+
+**Link to work:** [Random Quote Machine](https://kelvinsanchez15.github.io/random-quote-machine/)
