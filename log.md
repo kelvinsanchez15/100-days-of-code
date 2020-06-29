@@ -25,7 +25,7 @@ and try to get rid of some bugs.
 
 **Link to work:** [Random Quote Machine](https://kelvinsanchez15.github.io/random-quote-machine/)
 
-### Day 3: June 27, 2020 
+### Day 4: June 28, 2020 
 
 **Today's Progress**: Today I learned about Hooks in React thanks to a video on youtube from one of my favorite instructors @ColtSteele.
 
