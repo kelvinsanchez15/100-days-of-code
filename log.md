@@ -24,3 +24,11 @@ and try to get rid of some bugs.
 **Thoughts:** I am planning to go over the basics of React again and try to learn how to make simple animations with simple components so that I can incorporate that knowledge into future projects.
 
 **Link to work:** [Random Quote Machine](https://kelvinsanchez15.github.io/random-quote-machine/)
+
+### Day 3: June 27, 2020 
+
+**Today's Progress**: Today I learned about Hooks in React thanks to a video on youtube from one of my favorite instructors @ColtSteele.
+
+**Thoughts:** I definitely need more practice with them, so I will work on it this week.
+
+**Link to guide:** [Beginner's Guide to React w/ Hooks (2020) Free Course](https://www.youtube.com/watch?v=9U3IhLAnSxM)
