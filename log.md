@@ -32,3 +32,10 @@ and try to get rid of some bugs.
 **Thoughts:** I definitely need more practice with them, so I will work on it this week.
 
 **Link to guide:** [Beginner's Guide to React w/ Hooks (2020) Free Course](https://www.youtube.com/watch?v=9U3IhLAnSxM)
+
+### Day 5: June 29, 2020 
+
+**Today's Progress**: I practiced making basic functional components in react using hooks and completed my first kata at codewars.
+
+**Thoughts:** I feel time is going very fast while I'm coding.
+
