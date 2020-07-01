@@ -39,3 +39,9 @@ and try to get rid of some bugs.
 
 **Thoughts:** I feel time is going very fast while I'm coding.
 
+### Day 6: June 30, 2020 
+
+**Today's Progress**: I started working on the FCC Markdown Previewer project, looking for the concepts that I don't know and figuring out the best approach.
+
+**Thoughts:** Thinking on making use of the React Context API with hooks. Wish me luck! 
+
