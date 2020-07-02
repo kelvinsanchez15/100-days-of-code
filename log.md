@@ -45,3 +45,11 @@ and try to get rid of some bugs.
 
 **Thoughts:** Thinking on making use of the React Context API with hooks. Wish me luck! 
 
+### Day 2: July 01, 2020 
+
+**Today's Progress**: I finished creating the basic functions of my app, tomorrow I will give it the appropriate style.
+
+**Thoughts:** Got some problems with git overwriting my project with my recent deploy build. But It's good now thankfully!
+
+**Link to work:** [Markdown Previewer](https://github.com/kelvinsanchez15/markdown-previewer)
+
