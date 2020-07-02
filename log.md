@@ -45,7 +45,7 @@ and try to get rid of some bugs.
 
 **Thoughts:** Thinking on making use of the React Context API with hooks. Wish me luck! 
 
-### Day 2: July 01, 2020 
+### Day 7: July 01, 2020 
 
 **Today's Progress**: I finished creating the basic functions of my app, tomorrow I will give it the appropriate style.
 
