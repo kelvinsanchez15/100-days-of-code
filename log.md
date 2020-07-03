@@ -53,3 +53,11 @@ and try to get rid of some bugs.
 
 **Link to work:** [Markdown Previewer](https://github.com/kelvinsanchez15/markdown-previewer)
 
+### Day 9: July 02, 2020 
+
+**Today's Progress:** I made some CSS changes and fixes in my app and then submitted it to FCC.
+
+**Thoughts:** I'm very happy with my progress and already excited to start the next project.
+
+**Link to work:** [Markdown Previewer](https://kelvinsanchez15.github.io/markdown-previewer/)
+
