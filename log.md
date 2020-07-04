@@ -61,3 +61,10 @@ and try to get rid of some bugs.
 
 **Link to work:** [Markdown Previewer](https://kelvinsanchez15.github.io/markdown-previewer/)
 
+### Day 9: July 03, 2020 
+
+**Today's Progress:** I worked on the basic layout of the Drum Machine project and then I dedicated myself to studying how to implement audios in react.
+
+**Thoughts:** I'm a little sick so tomorrow I will take things easy if I'm not feeling better.
+
+
