@@ -67,4 +67,10 @@ and try to get rid of some bugs.
 
 **Thoughts:** I'm a little sick so tomorrow I will take things easy if I'm not feeling better.
 
+### Day 10: July 04, 2020 
+
+**Today's Progress:** I didn't feel very well today so I just did a kata, did some research and watched videos about React key events. 
+
+**Thoughts:** My plan is to practice on a smaller scale and then transfer that knowledge to the project I'm currently working. Health is first tho.
+
 
