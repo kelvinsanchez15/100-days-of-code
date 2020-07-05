@@ -69,8 +69,8 @@ and try to get rid of some bugs.
 
 ### Day 10: July 04, 2020 
 
-**Today's Progress:** I didn't feel very well today so I just did a kata, did some research and watched videos about React key events. 
+**Today's Progress:** I didn't feel very well so I just did a kata, some research and watched videos about React key events.
 
-**Thoughts:** My plan is to practice on a smaller scale and then transfer that knowledge to the project I'm currently working. Health is first tho.
+**Thoughts:** My plan is to practice on a smaller scale first and then move on with my current project. Health is first tho.
 
 
