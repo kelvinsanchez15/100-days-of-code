@@ -73,4 +73,8 @@ and try to get rid of some bugs.
 
 **Thoughts:** My plan is to practice on a smaller scale first and then move on with my current project. Health is first tho.
 
+### Day 11: July 05, 2020 
 
+**Today's Progress:** I had a lot of troubles to code today but managed to get some practice with a custom hook that I want to use in my app.
+
+**Thoughts:** Between flu and my network connection failing I think I'm progressing slower. 
