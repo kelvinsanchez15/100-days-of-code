@@ -78,3 +78,22 @@ and try to get rid of some bugs.
 **Today's Progress:** Lot of troubles to code today but managed to get some practice with a custom hook that I want to use in my app.
 
 **Thoughts:** Between flu and my network connection failing I think I'm progressing slower but hey! Progress is progress!
+
+### Day 12: July 06, 2020 
+
+**Today's Progress**: Managed to get my components working on a smaller scale.
+
+**Thoughts:** Everything started to fall into place finally.
+
+**Link to work:** [Drum Machine](https://github.com/kelvinsanchez15/drum-machine)
+
+### Day 13: July 07, 2020 
+
+**Today's Progress**: My drum machine app got all its basic functions and some extra ones that I added taking advantage of the momentum.
+
+**Thoughts:** Pretty happy with today results, my health is improving too.
+
+**Link to work:** [Drum Machine](https://github.com/kelvinsanchez15/drum-machine)
+
+
+
