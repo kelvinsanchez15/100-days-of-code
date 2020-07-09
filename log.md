@@ -103,5 +103,13 @@ and try to get rid of some bugs.
 
 **Link to work:** [Drum Machine](https://github.com/kelvinsanchez15/drum-machine/commit/e4ec21813d9210006c94187c952ddf44da17bff0)
 
+### Day 15: July 09, 2020 
+
+**Today's Progress**: More CSS changes, UI refactored to a individual component, icons and google fonts added.
+
+**Thoughts:** I think my app it's already looking pretty.
+
+**Link to work:** [Drum Machine](https://github.com/kelvinsanchez15/drum-machine/commit/809b111d050ed91085a859435a4f5298a5a26dc1)
+
 
 
