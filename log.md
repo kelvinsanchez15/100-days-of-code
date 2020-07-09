@@ -95,5 +95,13 @@ and try to get rid of some bugs.
 
 **Link to work:** [Drum Machine](https://github.com/kelvinsanchez15/drum-machine)
 
+### Day 14: July 08, 2020 
+
+**Today's Progress**: New local sounds library added and several CSS changes.
+
+**Thoughts:** I want to add some kind of transition and work more on the style of my app.
+
+**Link to work:** [Drum Machine](https://github.com/kelvinsanchez15/drum-machine/commit/e4ec21813d9210006c94187c952ddf44da17bff0)
+
 
 
