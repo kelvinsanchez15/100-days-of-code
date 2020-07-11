@@ -111,5 +111,13 @@ and try to get rid of some bugs.
 
 **Link to work:** [Drum Machine](https://github.com/kelvinsanchez15/drum-machine/commit/809b111d050ed91085a859435a4f5298a5a26dc1)
 
+### Day 16: July 10, 2020 
+
+**Today's Progress:** Drum Machine app using React w/ Hooks finished and submited to FCC.
+
+**Thoughts:** I learned a lot of things with this project and I feel that I have more confidence in the management of states through multiple components.
+
+**Link to work:** [Drum Machine](https://kelvinsanchez15.github.io/drum-machine/)
+
 
 
