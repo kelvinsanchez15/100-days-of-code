@@ -119,5 +119,11 @@ and try to get rid of some bugs.
 
 **Link to work:** [Drum Machine](https://kelvinsanchez15.github.io/drum-machine/)
 
+### Day 17: July 11, 2020 
+
+**Today's Progress:** I already started planning how to work on the JavaScript Calculator app, did some research and a little mockup.
+
+**Thoughts:** I hope to keep things simple and not incorporate many extra functions.
+
 
 
