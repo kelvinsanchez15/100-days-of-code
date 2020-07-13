@@ -127,7 +127,7 @@ and try to get rid of some bugs.
 
 ### Day 18: July 12, 2020 
 
-**Today's Progress:** I learned about the eval() function, just reading about it got me kinda scared. Did some tests and I think that if I make restrictions on the input I can make use of it.
+**Today's Progress:** I learned about the eval() function, just reading about it got me kinda scared. After some testing I think I can make use of it by making some restrictions.
 
 **Thoughts:** I know there are other options, like math.js or implement a shunting-yard algorithm, I'll make the final decision tomorow.
 
