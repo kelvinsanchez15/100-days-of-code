@@ -131,5 +131,11 @@ and try to get rid of some bugs.
 
 **Thoughts:** I know there are other options, like math.js or implement a shunting-yard algorithm, I'll make the final decision tomorow.
 
+### Day 19: July 13, 2020 
+
+**Today's Progress:** I did some tests with math.js and regex sanitizing of my input.
+
+**Thoughts:** I'm having troubles dealing with decimals. I know how to restrict consecutive ones like "5.." but I don't know how to deal with cases like "4.1.2.3"
+
 
 
