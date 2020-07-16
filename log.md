@@ -137,5 +137,17 @@ and try to get rid of some bugs.
 
 **Thoughts:** I'm having troubles dealing with decimals. I know how to restrict consecutive ones like "5.." but I don't know how to deal with cases like "4.1.2.3"
 
+### Day 20: July 14, 2020 
+
+**Today's Progress:** I couldn't find a suitable solution to make my app's logic work properly.
+
+**Thoughts:** I plan to approach the problem in a different way and make a fresh start.
+
+### Day 21: July 15, 2020 
+
+**Today's Progress:** I had connection problems and limited time but at least I did a couple of katas in Codewars.
+
+**Thoughts:** I already made up my mind that there are days when everything turns out and days when it doesn't.
+
 
 
