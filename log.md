@@ -157,4 +157,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [JavaScript Calculator](https://github.com/kelvinsanchez15/javascript-calculator/commit/f5e4c2beb018a796f211d3b2557113f562570e83)
 
+### Day 23: July 17, 2020 
+
+**Today's Progress**: I focused on the CSS of my app, fixed bugs and added some QoL changes.
+
+**Thoughts:** The design is based on my android phone calculator with dark mode activated.
+
+**Link to work:** [JavaScript Calculator](https://github.com/kelvinsanchez15/javascript-calculator/commit/3d097fc6656eff7458fe7f32324c51642d1f12fa)
+
 
