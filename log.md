@@ -149,5 +149,12 @@ and try to get rid of some bugs.
 
 **Thoughts:** I already made up my mind that there are days when everything turns out and days when it doesn't.
 
+### Day 22: July 16, 2020 
+
+**Today's Progress**: Finally! I managed to make my calculator work correctly and it already fulfills all the user stories.
+
+**Thoughts:** Now I will dedicate myself to work in the style of it.
+
+**Link to work:** [JavaScript Calculator](https://github.com/kelvinsanchez15/javascript-calculator/commit/f5e4c2beb018a796f211d3b2557113f562570e83)
 
 
