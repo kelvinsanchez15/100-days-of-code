@@ -165,4 +165,10 @@ and try to get rid of some bugs.
 
 **Link to work:** [JavaScript Calculator](https://github.com/kelvinsanchez15/javascript-calculator/commit/3d097fc6656eff7458fe7f32324c51642d1f12fa)
 
+### Day 23: July 17, 2020 
+
+**Today's Progress**: I finished and submited my calculator app to FCC. Then I made a sketch and some research about the next project.
+
+**Link to release:** [JavaScript Calculator](https://kelvinsanchez15.github.io/javascript-calculator/)
+
 
