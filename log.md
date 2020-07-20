@@ -171,4 +171,11 @@ and try to get rid of some bugs.
 
 **Link to release:** [JavaScript Calculator](https://kelvinsanchez15.github.io/javascript-calculator/)
 
+### Day 25: July 19, 2020 
+
+**Today's Progress**: I created the main components of my app and then did some work on the style of it.
+
+**Thoughts:** I'll work on the countdown timer logic tomorow.
+
+**Link to work:** [Pomodoro Clock](https://github.com/kelvinsanchez15/pomodoro-clock/commit/14a4a72dcdf7b96973c164ee34f13145caaa92df)
 
