@@ -117,7 +117,7 @@ and try to get rid of some bugs.
 
 **Thoughts:** I learned a lot of things with this project and I feel that I have more confidence in the management of states through multiple components.
 
-**Link to work:** [Drum Machine](https://kelvinsanchez15.github.io/drum-machine/)
+**Link to release:** [Drum Machine](https://kelvinsanchez15.github.io/drum-machine/)
 
 ### Day 17: July 11, 2020 
 
@@ -181,11 +181,19 @@ and try to get rid of some bugs.
 
 ### Day 26: July 20, 2020 
 
-**Today's Progress**: Timer logic completed, controls and sound added. With that my app managed to pass all the tests
+**Today's Progress**: Timer logic completed, controls and sound added. With that my app managed to pass all the tests.
 
 **Thoughts:** I need to polish the functionality and work more on the style.
 
 **Link to work:** [Pomodoro Clock](https://github.com/kelvinsanchez15/pomodoro-clock/commit/b0b863b26e4c4d6f2a1f75a11e575c19e19d22d1)
+
+### Day 27: July 21, 2020 
+
+**Today's Progress**: I gave a final touch to the overall style and polished certain features of my app.
+
+**Thoughts:** Now I am going to submit the project to freecodecamp and get my certificate.
+
+**Link to release:** [Pomodoro Clock](https://kelvinsanchez15.github.io/pomodoro-clock/)
 
 
 
