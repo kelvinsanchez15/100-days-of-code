@@ -183,7 +183,7 @@ and try to get rid of some bugs.
 
 **Today's Progress**: Timer logic completed, controls and sound added. With that my app managed to pass all the tests
 
-**Thoughts:** Need to fix some strange behaviors and work more on the style.
+**Thoughts:** I need to polish the functionality and work more on the style.
 
 **Link to work:** [Pomodoro Clock](https://github.com/kelvinsanchez15/pomodoro-clock/commit/b0b863b26e4c4d6f2a1f75a11e575c19e19d22d1)
 
