@@ -197,11 +197,12 @@ and try to get rid of some bugs.
 
 ### Day 28: July 22, 2020 
 
-**Today's Progress**: 
+**Today's Progress**: I completed all Data Visualization, JSON APIs and AJAX challenges on FCC.
 
-**Thoughts:** 
+**Thoughts:** I'll do some more research and practice, then I'll work on the next five data visualization projects.
 
-**Link to lessons:** - [Data Visualization with D3 Challenges](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
+**Link to lessons:** 
+- [Data Visualization with D3 Challenges](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
 - [JSON APIs and AJAX Challenges](https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/)
 
 
