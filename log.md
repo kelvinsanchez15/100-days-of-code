@@ -205,6 +205,14 @@ and try to get rid of some bugs.
 - [Data Visualization with D3 Challenges](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
 - [JSON APIs and AJAX Challenges](https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/)
 
+### Day 29: July 23, 2020 
+
+**Today's Progress**: I played with D3.js and some of its plugins for a while, then worked on the Bar Chart project.
+
+**Thoughts:** While researching about D3 I came across this fantastic tutorial: [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E) by Curran Kelleher.
+
+**Link to work:** [D3 Bar Chart](https://github.com/kelvinsanchez15/bar-chart/commit/b3c9df9e71662b3ff441f1e0dba6451251b0c3eb)
+
 
 
 
