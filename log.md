@@ -213,6 +213,14 @@ and try to get rid of some bugs.
 
 **Link to work:** [D3 Bar Chart](https://github.com/kelvinsanchez15/bar-chart/commit/b3c9df9e71662b3ff441f1e0dba6451251b0c3eb)
 
+### Day 30: July 24, 2020 
+
+**Today's Progress**: X axis logic reworked to use scaleTime(), I learned about pageX/pageY events and used it to dynamically position the tooltip. 
+
+**Thoughts:** I'm passing all FCC test so now I'll to work on the style of my chart bar.
+
+**Link to work:** [D3 Bar Chart](https://github.com/kelvinsanchez15/bar-chart/commit/021951046162e86ecd31d9d061bfd5f2847c828f)
+
 
 
 
