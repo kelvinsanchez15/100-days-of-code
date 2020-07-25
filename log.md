@@ -221,6 +221,11 @@ and try to get rid of some bugs.
 
 **Link to work:** [D3 Bar Chart](https://github.com/kelvinsanchez15/bar-chart/commit/021951046162e86ecd31d9d061bfd5f2847c828f)
 
+### Day 31: July 25, 2020 
 
+**Today's Progress**: D3 chart bar project finished and submitted to FCC.
 
+**Thoughts:** The amount of things that can be done with the D3 library is incredible.
+
+**Link to release:** [D3 Bar Chart](https://kelvinsanchez15.github.io/bar-chart/)
 
