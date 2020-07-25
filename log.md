@@ -223,7 +223,7 @@ and try to get rid of some bugs.
 
 ### Day 31: July 25, 2020 
 
-**Today's Progress**: D3 chart bar project finished and submitted to FCC.
+**Today's Progress**: D3 Bar Chart project finished and submitted to FCC.
 
 **Thoughts:** The amount of things that can be done with the D3.js library is incredible.
 
