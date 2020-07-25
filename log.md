@@ -225,7 +225,7 @@ and try to get rid of some bugs.
 
 **Today's Progress**: D3 chart bar project finished and submitted to FCC.
 
-**Thoughts:** The amount of things that can be done with the D3 library is incredible.
+**Thoughts:** The amount of things that can be done with the D3.js library is incredible.
 
 **Link to release:** [D3 Bar Chart](https://kelvinsanchez15.github.io/bar-chart/)
 
