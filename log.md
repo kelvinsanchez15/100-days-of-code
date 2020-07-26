@@ -229,3 +229,11 @@ and try to get rid of some bugs.
 
 **Link to release:** [D3 Bar Chart](https://kelvinsanchez15.github.io/bar-chart/)
 
+### Day 32: July 26, 2020 
+
+**Today's Progress**: I focused on the Scatterplot Graph project and managed to pass all FCC tests.
+
+**Thoughts:** All I have left is to work on the legend, the tooltip information and refine the overall style.
+
+**Link to work:** [D3 Scatterplot Graph](https://github.com/kelvinsanchez15/scatterplot-graph/commit/6d72e30595ea65f731fa1b2cacfcbd763e03458d)
+
