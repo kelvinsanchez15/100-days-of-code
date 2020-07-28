@@ -251,5 +251,5 @@ and try to get rid of some bugs.
 
 **Thoughts:** I'll work on the legend and the tooltip logic tomorrow.
 
-**Link to commit:** [D3 Heat Map](https://github.com/kelvinsanchez15/heat-map/commit/fbc6695648279fd01ceb2e8863f3eebb5b522918)
+**Link to work:** [D3 Heat Map](https://github.com/kelvinsanchez15/heat-map/commit/fbc6695648279fd01ceb2e8863f3eebb5b522918)
 
