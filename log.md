@@ -245,3 +245,11 @@ and try to get rid of some bugs.
 
 **Link to release:** [D3 Scatterplot Graph](https://kelvinsanchez15.github.io/scatterplot-graph/)
 
+### Day 34: July 28, 2020 
+
+**Today's Progress**: My D3 Heat Map visualization is taking form, currently passing 13/18 tests.
+
+**Thoughts:** I'll work on the legend and the tooltip logic tomorrow.
+
+**Link to commit:** [D3 Heat Map](https://github.com/kelvinsanchez15/heat-map/commit/fbc6695648279fd01ceb2e8863f3eebb5b522918)
+
