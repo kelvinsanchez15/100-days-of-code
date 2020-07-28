@@ -237,3 +237,11 @@ and try to get rid of some bugs.
 
 **Link to work:** [D3 Scatterplot Graph](https://github.com/kelvinsanchez15/scatterplot-graph/commit/6d72e30595ea65f731fa1b2cacfcbd763e03458d)
 
+### Day 33: July 27, 2020 
+
+**Today's Progress**: Data Visualization Project #2 finished! Today I worked on the legend, refactored the code and made some final CSS changes.
+
+**Thoughts:** I'm very happy with my progress so far.
+
+**Link to release:** [D3 Scatterplot Graph](https://kelvinsanchez15.github.io/scatterplot-graph/)
+
