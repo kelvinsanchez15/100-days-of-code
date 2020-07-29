@@ -253,3 +253,11 @@ and try to get rid of some bugs.
 
 **Link to work:** [D3 Heat Map](https://github.com/kelvinsanchez15/heat-map/commit/fbc6695648279fd01ceb2e8863f3eebb5b522918)
 
+### Day 35: July 29, 2020 
+
+**Today's Progress**: Data Visualization Project #3 completed and submitted!
+
+**Thoughts:** Global warming is not a game people.
+
+**Link to release:** [D3 Heat Map](https://kelvinsanchez15.github.io/heat-map/)
+
