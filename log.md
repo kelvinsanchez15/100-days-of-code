@@ -257,7 +257,7 @@ and try to get rid of some bugs.
 
 **Today's Progress**: Data Visualization Project #3 completed and submitted!
 
-**Thoughts:** Global warming is not a game people.
+**Thoughts:** If something became clear to me with this project, it is that global warming is not a game.
 
 **Link to release:** [D3 Heat Map](https://kelvinsanchez15.github.io/heat-map/)
 
