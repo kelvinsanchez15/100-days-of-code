@@ -267,5 +267,5 @@ and try to get rid of some bugs.
 
 **Thoughts:** I still need to make some improvements and add more data in the tooltip.
 
-**Link to release:** [D3 Choropleth Map](https://github.com/kelvinsanchez15/choropleth-map/commit/ee52a54e4837f278683a3fef7a8ed83d57e87817)
+**Link to work:** [D3 Choropleth Map](https://github.com/kelvinsanchez15/choropleth-map/commit/ee52a54e4837f278683a3fef7a8ed83d57e87817)
 
