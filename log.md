@@ -261,3 +261,11 @@ and try to get rid of some bugs.
 
 **Link to release:** [D3 Heat Map](https://kelvinsanchez15.github.io/heat-map/)
 
+### Day 36: July 30, 2020 
+
+**Today's Progress**: I managed to fulfill all user stories and pass each test of the Choropleth Map project.
+
+**Thoughts:** I still need to make some improvements and add more data in the tooltip.
+
+**Link to release:** [D3 Choropleth Map](https://github.com/kelvinsanchez15/choropleth-map/commit/ee52a54e4837f278683a3fef7a8ed83d57e87817)
+
