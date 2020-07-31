@@ -269,3 +269,11 @@ and try to get rid of some bugs.
 
 **Link to work:** [D3 Choropleth Map](https://github.com/kelvinsanchez15/choropleth-map/commit/ee52a54e4837f278683a3fef7a8ed83d57e87817)
 
+### Day 37: July 31, 2020 
+
+**Today's Progress**: D3 Choropleth Map project is all ready and submitted!
+
+**Thoughts:** Since I finished early and did not want to start the last project I did the lessons on Npm and Basic Node & Express from FCC
+
+**Link to release:** [D3 Choropleth Map](https://kelvinsanchez15.github.io/choropleth-map/)
+
