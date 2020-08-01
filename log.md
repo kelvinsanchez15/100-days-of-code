@@ -277,3 +277,11 @@ and try to get rid of some bugs.
 
 **Link to release:** [D3 Choropleth Map](https://kelvinsanchez15.github.io/choropleth-map/)
 
+### Day 38: August 01, 2020 
+
+**Today's Progress**: I finished the basic logic of the Treemap Diagram project and practiced a bit more with Node.
+
+**Thoughts:** I don't like the way treemap looks, especially labels. It is difficult to give it the format I want.
+
+**Link to work:** [D3 Treemap Diagram](https://github.com/kelvinsanchez15/treemap-diagram/commit/c955489bbc3788659e64dc5d7a90e00fb824f63b)
+
