@@ -285,3 +285,11 @@ and try to get rid of some bugs.
 
 **Link to work:** [D3 Treemap Diagram](https://github.com/kelvinsanchez15/treemap-diagram/commit/c955489bbc3788659e64dc5d7a90e00fb824f63b)
 
+### Day 39: August 02, 2020 
+
+**Today's Progress**: I finished the last of the data visualization projects and obtained the certification from FCC.
+
+**Thoughts:** I learned how to use D3 and gained a lot of new knowledge regarding data, graphics and projections.
+
+**Link to release:** [D3 Treemap Diagram](https://kelvinsanchez15.github.io/treemap-diagram/)
+
