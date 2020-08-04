@@ -293,3 +293,11 @@ and try to get rid of some bugs.
 
 **Link to release:** [D3 Treemap Diagram](https://kelvinsanchez15.github.io/treemap-diagram/)
 
+### Day 40: August 03, 2020 
+
+**Today's Progress**: I did all the MongoDB/Mongoose lessons and started working on the APIs and Microservices projects.
+
+**Thoughts:** It was a little difficult to configure my local environment but it is worth it.
+
+**Link to work:** [Timestamp Microservice](https://github.com/kelvinsanchez15/timestamp-microservice/commit/b19423315f41c8227a21e9e5f5afec2d04723a51)
+
