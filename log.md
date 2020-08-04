@@ -301,3 +301,16 @@ and try to get rid of some bugs.
 
 **Link to work:** [Timestamp Microservice](https://github.com/kelvinsanchez15/timestamp-microservice/commit/b19423315f41c8227a21e9e5f5afec2d04723a51)
 
+### Day 41: August 04, 2020 
+
+**Today's Progress**: I finished and submitted the first two APIs and Microservices projects.
+
+**Thoughts:** For the third project I need to use a database, but before doing it I'll practice with simpler examples.
+
+**Link to release:** 
+- [Timestamp Microservice](https://kel-timestamp-microservice.herokuapp.com/)
+- [Request Header Parser Microservice](https://request-header-parser-kel.herokuapp.com/)
+
+
+
+
