@@ -311,6 +311,15 @@ and try to get rid of some bugs.
 - [Timestamp Microservice](https://kel-timestamp-microservice.herokuapp.com/)
 - [Request Header Parser Microservice](https://request-header-parser-kel.herokuapp.com/)
 
+### Day 42: August 05, 2020 
+
+**Today's Progress**: My URL Shortener project is completed! 
+
+**Thoughts:** I had to consult the documentation a lot to know what methods to implement but I learned a lot and started to like the Back End.
+
+**Link to release:** [URL Shortener Microservice](https://url-shortener-kel.herokuapp.com/)
+
+
 
 
 
