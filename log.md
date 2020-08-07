@@ -327,6 +327,14 @@ and try to get rid of some bugs.
 
 **Link to work:** [Exercise Tracker](https://github.com/kelvinsanchez15/exercise-tracker/commit/d7f4f20156b72f703e3cb90f3c5fec48170ccb12)
 
+### Day 43: August 06, 2020 
+
+**Today's Progress**: I learned how to use query params to return complete logs according to the userId that is searched.
+
+**Thoughts:** Tried to solve the last user story using MongoDB methods but it is not possible with my schema structure.
+
+**Link to work:** [Exercise Tracker](https://github.com/kelvinsanchez15/exercise-tracker/commit/f1620b82aae433d1e77ba0d35b66176bae8d9b58)
+
 
 
 
