@@ -319,6 +319,14 @@ and try to get rid of some bugs.
 
 **Link to release:** [URL Shortener Microservice](https://url-shortener-kel.herokuapp.com/)
 
+### Day 43: August 06, 2020 
+
+**Today's Progress**: Refactored my Url Shortener code using Async/Await and made great progress on the Exercise Tracker project.
+
+**Thoughts:** Once you pick up the rhythm everything starts to fall into place very fast.
+
+**Link to work:** [Exercise Tracker](https://github.com/kelvinsanchez15/exercise-tracker/commit/d7f4f20156b72f703e3cb90f3c5fec48170ccb12)
+
 
 
 
