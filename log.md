@@ -327,13 +327,21 @@ and try to get rid of some bugs.
 
 **Link to work:** [Exercise Tracker](https://github.com/kelvinsanchez15/exercise-tracker/commit/d7f4f20156b72f703e3cb90f3c5fec48170ccb12)
 
-### Day 43: August 06, 2020 
+### Day 44: August 07, 2020 
 
 **Today's Progress**: I learned how to use query params to return complete logs according to the userId that is searched.
 
 **Thoughts:** Tried to solve the last user story using MongoDB methods but it is not possible with my schema structure.
 
 **Link to work:** [Exercise Tracker](https://github.com/kelvinsanchez15/exercise-tracker/commit/f1620b82aae433d1e77ba0d35b66176bae8d9b58)
+
+### Day 45: August 08, 2020 
+
+**Today's Progress**: My Exercise Tracker project already fulfills all the user stories, I worked on the Front End adding extra features and styling it with CSS along the way.
+
+**Thoughts:** Tomorrow I'll review the responsive part and some other details.
+
+**Link to release:** [Exercise Tracker](https://exercise-tracker-kel.herokuapp.com/)
 
 
 
