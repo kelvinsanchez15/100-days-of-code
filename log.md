@@ -343,6 +343,14 @@ and try to get rid of some bugs.
 
 **Link to release:** [Exercise Tracker](https://exercise-tracker-kel.herokuapp.com/)
 
+### Day 46: 
+
+**Today's Progress**: I finished the last of the projects and got the APIs and Microservices certification from FreeCodeCamp.
+
+**Thoughts:** These projects were my first contact with the Back End and they taught me a lot about it.
+
+**Link to release:** [File Metadata Microservice](https://file-metadata-microservice-kel.herokuapp.com/)
+
 
 
 
