@@ -343,7 +343,7 @@ and try to get rid of some bugs.
 
 **Link to release:** [Exercise Tracker](https://exercise-tracker-kel.herokuapp.com/)
 
-### Day 46: 
+### Day 46: August 09, 2020 
 
 **Today's Progress**: I finished the last of the projects and got the APIs and Microservices certification from FreeCodeCamp.
 
