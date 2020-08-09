@@ -345,7 +345,7 @@ and try to get rid of some bugs.
 
 ### Day 46: August 09, 2020 
 
-**Today's Progress**: I finished the last of the projects and got the APIs and Microservices certification from FreeCodeCamp.
+**Today's Progress**: I finished the last project and got the APIs and Microservices certification from FreeCodeCamp.
 
 **Thoughts:** These projects were my first contact with the Back End and they taught me a lot about it.
 
