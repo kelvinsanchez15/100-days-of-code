@@ -351,6 +351,14 @@ and try to get rid of some bugs.
 
 **Link to release:** [File Metadata Microservice](https://file-metadata-microservice-kel.herokuapp.com/)
 
+### Day 47: August 10, 2020 
+
+**Today's Progress**: Completed most of the Quality Assurance lessons.
+
+**Thoughts:** I have the feeling that I'm going blind working with Glitch, if we add some bugs to it, let's just say that it's not much fun.
+
+**Link to lessons:** [Quality Assurance with Chai Challenges](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-and-testing-with-chai/)
+
 
 
 
