@@ -359,6 +359,14 @@ and try to get rid of some bugs.
 
 **Link to lessons:** [Quality Assurance with Chai Challenges](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-and-testing-with-chai/)
 
+### Day 48: August 11, 2020 
+
+**Today's Progress**: I made some advances in the Metric-Imperial Converter project.
+
+**Thoughts:** Programming and creating test suits pushes you to debug the code a lot, if you break something you will know it immediately.
+
+**Link to work:** [Metric-Imperial Converter](https://github.com/kelvinsanchez15/metric-imperial-converter/commit/71ba33294513376ee6a540abd58da4a4a5e86bcf)
+
 
 
 
