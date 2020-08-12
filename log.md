@@ -369,7 +369,7 @@ and try to get rid of some bugs.
 
 ### Day 49: August 12, 2020 
 
-**Today's Progress**: 21/21 passing tests! With this the first Quality Assurance project is finished.
+**Today's Progress**: 21/21 passed tests! With this the first Quality Assurance project is finished.
 
 **Thoughts:** For some reason every green checkmark I get is a dopamine rush.
 
