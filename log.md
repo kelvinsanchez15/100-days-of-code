@@ -367,6 +367,14 @@ and try to get rid of some bugs.
 
 **Link to work:** [Metric-Imperial Converter](https://github.com/kelvinsanchez15/metric-imperial-converter/commit/71ba33294513376ee6a540abd58da4a4a5e86bcf)
 
+### Day 49: August 12, 2020 
+
+**Today's Progress**: 21/21 passing tests! With this the first Quality Assurance project is finished.
+
+**Thoughts:** For some reason every green checkmark I get is a dopamine rush.
+
+**Link to release:** [Metric-Imperial Converter](https://metric-imperial-converter-kel.glitch.me/)
+
 
 
 
