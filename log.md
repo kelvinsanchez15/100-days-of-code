@@ -384,6 +384,3 @@ and try to get rid of some bugs.
 **Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/cc4be69355a238a9042f66c23481d89059de1e81)
 
 
-
-I worked on the layout and the models for the Issue Tracker project, my connection gave me a lot of problems so I spent the rest of the afternoon making a mockup based on Github.
-
