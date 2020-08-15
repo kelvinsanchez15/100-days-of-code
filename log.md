@@ -383,4 +383,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/cc4be69355a238a9042f66c23481d89059de1e81)
 
+### Day 51: August 14, 2020 
+
+**Today's Progress**: I learned to incorporate eslint + prettier + airbnb in my projects and managed to dynamically render all the issues of my Issue Tracker.
+
+**Thoughts:** I switched from EJS to PUG because unfortunately there is no good support for EJS view engine in VSCode.
+
+**Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/c0188a74a16ce1f6b49c8c77fe54b7e747b900ee)
+
 
