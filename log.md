@@ -391,4 +391,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/c0188a74a16ce1f6b49c8c77fe54b7e747b900ee)
 
+### Day 52: August 15, 2020 
+
+**Today's Progress**: I made a lot of progress on my Issue Tracker project, finished all the missing routes, added relative time with the help of Moment, and did some work on the style.
+
+**Thoughts:** There are still several things to do but it is nice to see how everything is already taking shape.
+
+**Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/25407068dda6c850ee24c8054df9ec33b447c9d6)
+
 
