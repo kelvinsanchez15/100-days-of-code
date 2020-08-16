@@ -399,4 +399,14 @@ and try to get rid of some bugs.
 
 **Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/25407068dda6c850ee24c8054df9ec33b447c9d6)
 
+### Day 53: August 16, 2020 
+
+**Today's Progress**: I cleaned up my code by refactoring routes into a separate file, added icons for opened and closed issues and labels for status and assigned.
+
+**Thoughts:** I still have to implement filters and all the testing setup.
+
+**Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/bfa205aaf9fed012237228d435d96967691e8092)
+
+
+
 
