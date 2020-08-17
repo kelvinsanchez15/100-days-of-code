@@ -407,6 +407,14 @@ and try to get rid of some bugs.
 
 **Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/bfa205aaf9fed012237228d435d96967691e8092)
 
+### Day 54: August 17, 2020 
+
+**Today's Progress**: I finished the filter and works properly, the downside is that it requires a lot of work to implement the exact logic that github uses. 
+
+**Thoughts:** I'll use a form with several inputs, I don't want to continue increasing the scope of this project.
+
+**Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/44f8f74918d442576dd6d76f9b0b11a5a44762fc)
+
 
 
 
