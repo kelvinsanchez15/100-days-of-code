@@ -415,6 +415,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/44f8f74918d442576dd6d76f9b0b11a5a44762fc)
 
+### Day 55: August 18, 2020 
 
+**Today's Progress**: My Mocha + Chai test environment is ready, although I confess that I ended up wanting to use Jest.
+
+**Thoughts:** Tomorrow I'll finish creating the remaining tests.
+
+**Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/ac70b9b447ba27af8197d775b4d640c1e1884186)
 
 
