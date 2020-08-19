@@ -423,4 +423,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/ac70b9b447ba27af8197d775b4d640c1e1884186)
 
+### Day 56: August 19, 2020 
+
+**Today's Progress**: I finished creating all the test suites for my Issue Tracker, also refactored some routes and error handling.
+
+**Thoughts:** I'll put information with the user stories on the main page and fix some display bugs.
+
+**Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/537125d8f97e91deee59e5e587fbd3e7817b73e5)
+
 
