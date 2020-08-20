@@ -431,4 +431,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Issue Tracker](https://github.com/kelvinsanchez15/issue-tracker/commit/537125d8f97e91deee59e5e587fbd3e7817b73e5)
 
+### Day 57: August 20, 2020 
+
+**Today's Progress**: My Issue Tracker project is completed!
+
+**Thoughts:** I was a bit tired of working only with JSON responses so I learned about server side rendering and block by block I put everything together.
+
+**Link to release:** [Issue Tracker](https://issue-tracker-kel.glitch.me/)
+
 
