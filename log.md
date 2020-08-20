@@ -435,7 +435,7 @@ and try to get rid of some bugs.
 
 **Today's Progress**: My Issue Tracker project is completed!
 
-**Thoughts:** I was a bit tired of working only with JSON responses so I learned about server side rendering and block by block I put everything together.
+**Thoughts:** I was a bit tired of working only with JSON responses so I learned about server side rendering and block by block I put everything together to create a pseudo 'Github Issues' clone.
 
 **Link to release:** [Issue Tracker](https://issue-tracker-kel.glitch.me/)
 
