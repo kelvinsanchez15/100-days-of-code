@@ -442,10 +442,10 @@ and try to get rid of some bugs.
 ### Day 58: August 21, 2020 
 
 **Today's Progress**: I made a lot of progress on the Personal Library project.
-- Create Book model
-- Create api router with all endpoints
-- Set test enviroment with Jest and SuperTest
-- Add all test cases
+- [x] Create Book model
+- [x] Create api router with all endpoints
+- [x] Set test enviroment with Jest and SuperTest
+- [x] Add all test cases
 
 **Thoughts:** I liked the combination Jest/SuperTest much more than Mocha/Chai/Chai-http.
 
