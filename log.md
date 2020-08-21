@@ -439,4 +439,16 @@ and try to get rid of some bugs.
 
 **Link to release:** [Issue Tracker](https://issue-tracker-kel.glitch.me/)
 
+### Day 58: August 21, 2020 
+
+**Today's Progress**: I made a lot of progress on the Personal Library project.
+- Create Book model
+- Create api router with all endpoints
+- Set test enviroment with Jest and SuperTest
+- Add all test cases
+
+**Thoughts:** I liked the combination Jest/SuperTest much more than Mocha/Chai/Chai-http.
+
+**Link to work:** [Personal Library](https://github.com/kelvinsanchez15/personal-library/commit/c6ed4b45d1494a5342bfe9745fe99ad61032f3c7)
+
 
