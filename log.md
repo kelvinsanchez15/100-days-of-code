@@ -451,4 +451,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Personal Library](https://github.com/kelvinsanchez15/personal-library/commit/c6ed4b45d1494a5342bfe9745fe99ad61032f3c7)
 
+### Day 59: August 22, 2020 
+
+**Today's Progress**: Quality Assurance Project #3: Personal Library completed!
+
+**Thoughts:** I thought about finishing quickly with the front end by making a small sample, but even the simplest takes its time.
+
+**Link to release:** [Personal Library](https://personal-library-kel.glitch.me/)
+
 
