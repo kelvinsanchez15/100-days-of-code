@@ -459,4 +459,12 @@ and try to get rid of some bugs.
 
 **Link to release:** [Personal Library](https://personal-library-kel.glitch.me/)
 
+### Day 60: August 23, 2020 
+
+**Today's Progress**: I made my first PR, a friend asked me to fix a couple of things on his website, it is a menu of a food business he is starting.
+
+**Thoughts:** Took a break for the rest of the day to start the next week strong.
+
+**Link to work:** [Restaurant Menu](https://github.com/bombaimex/menu/pull/1)
+
 
