@@ -467,4 +467,10 @@ and try to get rid of some bugs.
 
 **Link to work:** [Restaurant Menu](https://github.com/bombaimex/menu/pull/1)
 
+### Day 61: August 24, 2020 
+
+**Today's Progress**: I started looking for the best approach to complete the Sudoku Solver project, it is quite different from the previous projects so let's say I was taken by surprise.
+
+**Thoughts:** I will take my time and work with simpler examples in the areas that I feel I do not understand well.
+
 
