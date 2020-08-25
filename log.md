@@ -473,4 +473,12 @@ and try to get rid of some bugs.
 
 **Thoughts:** I will take my time and work with simpler examples in the areas that I feel I do not understand well.
 
+### Day 62: August 25, 2020 
+
+**Today's Progress**: I made some basic examples with inputs and event listeners in vanilla JS that helped me correct a bug in the Sudoku Solver project.
+
+**Thoughts:** Today I was not feeling well so I am making sure not to overwork.
+
+**Link to work:** [Sudoku Solver](https://github.com/kelvinsanchez15/sudoku-solver/commit/06c899ba257cd60694bfb83b305c34db5ef191fd)
+
 
