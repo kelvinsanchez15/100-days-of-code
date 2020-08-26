@@ -481,4 +481,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Sudoku Solver](https://github.com/kelvinsanchez15/sudoku-solver/commit/06c899ba257cd60694bfb83b305c34db5ef191fd)
 
+### Day 63: August 26, 2020 
+
+**Today's Progress**: I made some improvements to a couple of projects thanks to a colleague feedback. I realized that it is better to do the Sudoku Solver project oriented towards tests from the beginning.
+
+**Thoughts:** I feel much better in health thankfully.
+
+**Link to work:** [Sudoku Solver](https://github.com/kelvinsanchez15/sudoku-solver/commit/4f4ed9258abafe0a7194d89f63a815b388cc804b)
+
 
