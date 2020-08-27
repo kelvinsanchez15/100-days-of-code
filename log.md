@@ -489,4 +489,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Sudoku Solver](https://github.com/kelvinsanchez15/sudoku-solver/commit/4f4ed9258abafe0a7194d89f63a815b388cc804b)
 
+### Day 64: August 27, 2020 
+
+**Today's Progress**: My Sudoku Solver project is already coming to life, I had to take references from a thousand sites to make it work but it will be worth it.
+
+**Thoughts:** The day went by faster than I thought, so I'll continue tomorrow.
+
+**Link to work:** [Sudoku Solver](https://github.com/kelvinsanchez15/sudoku-solver/commit/1b769a43923d1f2d7f86cb472223eae2547853de)
+
 
