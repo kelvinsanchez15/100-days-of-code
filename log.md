@@ -497,4 +497,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Sudoku Solver](https://github.com/kelvinsanchez15/sudoku-solver/commit/1b769a43923d1f2d7f86cb472223eae2547853de)
 
+### Day 65: August 28, 2020 
+
+**Today's Progress**: Quality Assurance Project #4: Sudoku Solver completed!
+
+**Thoughts:** Testing functionalities in the browser is quite complicated using a virtual Dom, I had to adjust a lot of things in favor of testing.
+
+**Link to release:** [Sudoku Solver](https://sudoku-solver-kel.glitch.me/)
+
 
