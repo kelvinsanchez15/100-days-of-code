@@ -505,4 +505,14 @@ and try to get rid of some bugs.
 
 **Link to release:** [Sudoku Solver](https://sudoku-solver-kel.glitch.me/)
 
+### Day 66: August 29, 2020 
+
+**Today's Progress**: I started working on the American / British English translator, did some research and programmed some functions to handle the data.
+
+**Thoughts:** Spent the rest of the day playing guitar, I needed it.
+
+**Link to release:** [American / British English Translator](https://github.com/kelvinsanchez15/american-british-english-translator/commit/37f6c06a0e0ad4e62ab60f6387e6afcfe8e3e1a7)
+
+
+
 
