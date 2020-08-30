@@ -513,6 +513,14 @@ and try to get rid of some bugs.
 
 **Link to release:** [American / British English Translator](https://github.com/kelvinsanchez15/american-british-english-translator/commit/37f6c06a0e0ad4e62ab60f6387e6afcfe8e3e1a7)
 
+### Day 67: August 30, 2020 
+
+**Today's Progress**: Fighting all day with regex and doing magic with arrays and objects. The translator logic is basically ready.
+
+**Thoughts:** I need to handle honorifics, time format and setup all the testing.
+
+**Link to release:** [American / British English Translator](https://github.com/kelvinsanchez15/american-british-english-translator/commit/344bd583a658d50bf49365fb6bdc43becd7f5469)
+
 
 
 
