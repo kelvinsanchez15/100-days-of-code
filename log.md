@@ -511,7 +511,7 @@ and try to get rid of some bugs.
 
 **Thoughts:** Spent the rest of the day playing guitar, I needed it.
 
-**Link to release:** [American / British English Translator](https://github.com/kelvinsanchez15/american-british-english-translator/commit/37f6c06a0e0ad4e62ab60f6387e6afcfe8e3e1a7)
+**Link to work:** [American / British English Translator](https://github.com/kelvinsanchez15/american-british-english-translator/commit/37f6c06a0e0ad4e62ab60f6387e6afcfe8e3e1a7)
 
 ### Day 67: August 30, 2020 
 
@@ -519,7 +519,19 @@ and try to get rid of some bugs.
 
 **Thoughts:** I need to handle honorifics, time format and setup all the testing.
 
-**Link to release:** [American / British English Translator](https://github.com/kelvinsanchez15/american-british-english-translator/commit/344bd583a658d50bf49365fb6bdc43becd7f5469)
+**Link to work:** [American / British English Translator](https://github.com/kelvinsanchez15/american-british-english-translator/commit/344bd583a658d50bf49365fb6bdc43becd7f5469)
+
+### Day 68: August 31, 2020 
+
+**Today's Progress**: Quality Assurance certification obtained!
+
+**Thoughts:** Some of the things I learned throughout the course: 
+- Advance Node and Express
+- Pug and Ejs as view engines
+- Testing with Mocha + Chai (Also tried Jest)
+- Mocking the dom with JSDom
+
+**Link to release:** [American / British English Translator](https://american-british-english-translator-kel.glitch.me/)
 
 
 
