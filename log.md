@@ -533,6 +533,12 @@ and try to get rid of some bugs.
 
 **Link to release:** [American / British English Translator](https://american-british-english-translator-kel.glitch.me/)
 
+### Day 69: September 01, 2020 
 
+**Today's Progress**: Did some work on the Stock Price Checker project.
+
+**Thoughts:** My connection did not help much but tomorrow I will surely finish it.
+
+**Link to work:** [Stock Price Checker](https://github.com/kelvinsanchez15/stock-price-checker/commit/adf0f5e405d052923f181ee2bb3f6936f393f76f)
 
 
