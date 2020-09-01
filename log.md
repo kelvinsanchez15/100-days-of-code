@@ -537,7 +537,7 @@ and try to get rid of some bugs.
 
 **Today's Progress**: Did some work on the Stock Price Checker project.
 
-**Thoughts:** My connection did not help much but tomorrow I will surely finish it.
+**Thoughts:** I'm having problems with my internet connection, I hope it will be solved soon.
 
 **Link to work:** [Stock Price Checker](https://github.com/kelvinsanchez15/stock-price-checker/commit/adf0f5e405d052923f181ee2bb3f6936f393f76f)
 
