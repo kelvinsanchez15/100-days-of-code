@@ -541,4 +541,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Stock Price Checker](https://github.com/kelvinsanchez15/stock-price-checker/commit/adf0f5e405d052923f181ee2bb3f6936f393f76f)
 
+### Day 70: September 02, 2020 
+
+**Today's Progress**: I finished all the basic logic of my Stock Tracker project, configured the test environment and created the tests.
+
+**Thoughts:** All set for now, only one FCC project left <3
+
+**Link to release:** [Stock Price Checker](https://stock-price-checker-kel.glitch.me/)
+
 
