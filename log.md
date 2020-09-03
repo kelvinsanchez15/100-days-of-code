@@ -549,4 +549,16 @@ and try to get rid of some bugs.
 
 **Link to release:** [Stock Price Checker](https://stock-price-checker-kel.glitch.me/)
 
+### Day 71: September 03, 2020 
+
+**Today's Progress**: 
+- [x] Create basic boilerplate, models and API routers
+- [x] Set test enviroment with Jest and SuperTest
+- [x] Set automatic DB seedeer
+- [x] Add test cases for threads endpoint
+
+**Thoughts:** Very productive day!
+
+**Link to work:** [Anonymous Message Board](https://github.com/kelvinsanchez15/anonymous-message-board/commit/4845d65fe418a86be9a558ff76012d05f595ed3e)
+
 
