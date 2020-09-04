@@ -561,7 +561,7 @@ and try to get rid of some bugs.
 
 **Link to work:** [Anonymous Message Board](https://github.com/kelvinsanchez15/anonymous-message-board/commit/4845d65fe418a86be9a558ff76012d05f595ed3e)
 
-### Day 71: September 04, 2020 
+### Day 72: September 04, 2020 
 
 **Today's Progress**: 
 - [x] Add test cases for threads endpoint
