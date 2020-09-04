@@ -564,7 +564,7 @@ and try to get rid of some bugs.
 ### Day 72: September 04, 2020 
 
 **Today's Progress**: 
-- [x] Add test cases for threads endpoint
+- [x] Add test cases for replies endpoint
 - [x] Create frontend board router
 - [x] Create dynamic board view with PUG
 - [x] Handle requests on frontend
