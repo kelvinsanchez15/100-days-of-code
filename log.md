@@ -561,4 +561,16 @@ and try to get rid of some bugs.
 
 **Link to work:** [Anonymous Message Board](https://github.com/kelvinsanchez15/anonymous-message-board/commit/4845d65fe418a86be9a558ff76012d05f595ed3e)
 
+### Day 71: September 04, 2020 
+
+**Today's Progress**: 
+- [x] Add test cases for threads endpoint
+- [x] Create frontend board router
+- [x] Create dynamic board view with PUG
+- [x] Handle requests on frontend
+
+**Thoughts:** When you work on the frontend, there are always additional tasks.
+
+**Link to work:** [Anonymous Message Board](https://github.com/kelvinsanchez15/anonymous-message-board/commit/883ff8172db5d336ad20fa4c0453914a171b44f9)
+
 
