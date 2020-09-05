@@ -573,4 +573,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Anonymous Message Board](https://github.com/kelvinsanchez15/anonymous-message-board/commit/883ff8172db5d336ad20fa4c0453914a171b44f9)
 
+### Day 73: September 05, 2020 
+
+**Today's Progress**: I continued working on the frontend of my message board, incorporated flash alerts and added the remaining routes.
+
+**Thoughts:** Some important details are still missing, but I should be able to finish them tomorrow.
+
+**Link to work:** [Anonymous Message Board](UPDATE PLEASE)
+
 
