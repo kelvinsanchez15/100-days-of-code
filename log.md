@@ -579,6 +579,14 @@ and try to get rid of some bugs.
 
 **Thoughts:** Some important details are still missing, but I should be able to finish them tomorrow.
 
-**Link to work:** [Anonymous Message Board](UPDATE PLEASE)
+**Link to work:** [Anonymous Message Board](https://github.com/kelvinsanchez15/anonymous-message-board/commit/d4c41a90d71b61741bf5ded40c8571512c04fd97)
+
+### Day 74: September 06, 2020 
+
+**Today's Progress**: My Anonymous Message Board is completed! With this I finished the base curriculum of Free Code Camp.
+
+**Thoughts:** 
+
+**Link to release:** [Anonymous Message Board](https://anonymous-message-board-kel.glitch.me/)
 
 
