@@ -585,8 +585,11 @@ and try to get rid of some bugs.
 
 **Today's Progress**: My Anonymous Message Board is completed! With this I finished the base curriculum of Free Code Camp.
 
-**Thoughts:** 
-
 **Link to release:** [Anonymous Message Board](https://anonymous-message-board-kel.glitch.me/)
 
+### Day 75: September 07, 2020 
+
+**Today's Progress**: I took a break today but spent time filling out my Linkedin and looking for ideas for a portfolio.
+
+**Thoughts:** I want to do it with React, but I still can't decide between using CRA, Gabtsy or NextJS.
 
