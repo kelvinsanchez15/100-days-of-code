@@ -593,3 +593,11 @@ and try to get rid of some bugs.
 
 **Thoughts:** I want to do it with React, but I still can't decide between using CRA, Gabtsy or NextJS.
 
+### Day 76: September 08, 2020 
+
+**Today's Progress**: I learned the basics of NextJS with their official tutorial by creating a blog app.
+
+**Thoughts:** Also configured Eslint to work with NextJS, it is a bit more complicated when you include Airbnb rules and Prettier.
+
+**Link to work:** [NextJS Blog](https://github.com/kelvinsanchez15/nextjs-blog/commit/94138b7f2217aa937df8e10923f9edc73d39d3b6)
+
