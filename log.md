@@ -601,3 +601,9 @@ and try to get rid of some bugs.
 
 **Link to work:** [NextJS Blog](https://github.com/kelvinsanchez15/nextjs-blog/commit/94138b7f2217aa937df8e10923f9edc73d39d3b6)
 
+### Day 77: September 09, 2020 
+
+**Today's Progress**: A tough day, had to deal with connection problems, various distractions and a sudden tiredness.
+
+**Thoughts:** I think I have to do a kind of "React Rehab", I spent a long time without using it and now I feel a bit lost.
+
