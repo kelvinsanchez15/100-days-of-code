@@ -607,3 +607,8 @@ and try to get rid of some bugs.
 
 **Thoughts:** I think I have to do a kind of "React Rehab", I spent a long time without using it and now I feel a bit lost.
 
+### Day 78: September 10, 2020 
+
+**Today's Progress**: It's very easy to get overwhelmed working in Front End, I've been trying to use NextJS with Ant Design or MUI and even though I manage to configure them, I feel lost taking the next step.
+
+**Thoughts:** I'll try to find more basic examples and practice but any tip or advice is well received.
