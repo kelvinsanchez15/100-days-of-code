@@ -612,3 +612,9 @@ and try to get rid of some bugs.
 **Today's Progress**: It's very easy to get overwhelmed working in Front End, I've been trying to use NextJS with Ant Design or MUI and even though I manage to configure them, I feel lost taking the next step.
 
 **Thoughts:** I'll try to find more basic examples and practice but any tip or advice is well received.
+
+### Day 79: September 11, 2020 
+
+**Today's Progress**: I made good progress in the navbar component of my portfolio, I'm going slowly but moving forward, which is the important thing.
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/6cf9d75e71f6049ca9a959c754a70a2767a90ff7)
