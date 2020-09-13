@@ -622,3 +622,7 @@ and try to get rid of some bugs.
 ### Day 80: September 12, 2020 
 
 **Today's Progress**: I am still learning to handle Material UI components and style them with JSS, I made progress in the general layout of my portfolio.
+
+### Day 81: September 13, 2020 
+
+**Today's Progress**: I spent time watching some tutorials on custom themes in Material UI, I also installed Figma but didn't have time to test it properly.
