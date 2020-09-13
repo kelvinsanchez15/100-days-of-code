@@ -625,4 +625,4 @@ and try to get rid of some bugs.
 
 ### Day 81: September 13, 2020 
 
-**Today's Progress**: I spent time watching some tutorials on custom themes in Material UI, I also installed Figma but didn't have time to test it properly.
+**Today's Progress**: I spent time watching tutorials of custom themes in Material UI, I also installed Figma but didn't have time to test it properly.
