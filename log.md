@@ -626,3 +626,11 @@ and try to get rid of some bugs.
 ### Day 81: September 13, 2020 
 
 **Today's Progress**: I spent time watching tutorials of custom themes in Material UI, I also installed Figma but didn't have time to test it properly.
+
+### Day 82: September 14, 2020 
+
+**Today's Progress**: Today I made progress in the about section of my portfolio, I created a basic layout to start with something but I'll keep improving it.
+
+**Thoughts:** I'm feeling more comfortable using Material UI, it's like everything in programming, a matter of practice.
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/f66a4d1c8bd95e8a3bab78fa4fdba951f8e297a0)
