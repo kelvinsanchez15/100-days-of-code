@@ -634,3 +634,9 @@ and try to get rid of some bugs.
 **Thoughts:** I'm feeling more comfortable using Material UI, it's like everything in programming, a matter of practice.
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/f66a4d1c8bd95e8a3bab78fa4fdba951f8e297a0)
+
+### Day 83: September 15, 2020 
+
+**Today's Progress**: I made changes to the navbar of my portfolio, now it's hide on scroll instead of being elevated. I also added Projects and Contact section with placeholder data.
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/79a613712a71e5d07a4bd0174c651c8fb3c88685)
