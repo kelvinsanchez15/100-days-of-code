@@ -640,3 +640,11 @@ and try to get rid of some bugs.
 **Today's Progress**: I made changes to the navbar of my portfolio, now it's hide on scroll instead of being elevated. I also added Projects and Contact section with placeholder data.
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/79a613712a71e5d07a4bd0174c651c8fb3c88685)
+
+### Day 84: September 16, 2020 
+
+**Today's Progress**: Worked on the projects section of my portfolio, I'm using a combination of grid with cards but I still need to figure it out the best way to display those cards on smaller screens.
+
+**Thoughts:**: I also did a mock deployment in Vercel, it was pretty fast and had no issues.
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/c0b450c3ffbfaf1b950b50841279ec466281f6dd)
