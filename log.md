@@ -648,3 +648,15 @@ and try to get rid of some bugs.
 **Thoughts:**: I also did a mock deployment in Vercel, it was pretty fast and had no issues.
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/c0b450c3ffbfaf1b950b50841279ec466281f6dd)
+
+### Day 85: September 17, 2020 
+
+**Today's Progress**: 
+- [x] Create custom favicon
+- [x] Change chips color to grey and fix contrast issue
+- [x] Make projects grid responsive
+- [x] Etc etc...
+
+**Thoughts:**: First time creating a favicon and it was pretty fast using Figma + Favyy pluggin. 
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/a4a06e3164675c2dfd7dcae59ff8ba3173bceabb)
