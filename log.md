@@ -657,6 +657,6 @@ and try to get rid of some bugs.
 - [x] Make projects grid responsive
 - [x] Etc etc...
 
-**Thoughts:**: First time creating a favicon and it was pretty fast using Figma + Favyy pluggin. 
+**Thoughts**: First time creating a favicon and it was pretty fast using Figma + Favyy pluggin. 
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/a4a06e3164675c2dfd7dcae59ff8ba3173bceabb)
