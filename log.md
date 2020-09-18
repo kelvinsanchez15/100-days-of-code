@@ -660,3 +660,14 @@ and try to get rid of some bugs.
 **Thoughts**: First time creating a favicon and it was pretty fast using Figma + Favyy pluggin. 
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/a4a06e3164675c2dfd7dcae59ff8ba3173bceabb)
+
+### Day 86: September 18, 2020 
+
+**Today's Progress**: 
+- [x] Create hamburger menu with sidebar
+- [x] Create custom link component with underline animation
+- [x] Code refactor and CSS improvenments
+
+**Thoughts**: I captured my screen to show you a little bit, I'll try other formats since you lost a lot of quality using gif.
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/f9ba167ccc4f5d98b016680a2cfb356dbcffeb3f)
