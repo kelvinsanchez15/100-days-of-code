@@ -671,3 +671,17 @@ and try to get rid of some bugs.
 **Thoughts**: I captured my screen to show you a little bit, I'll try other formats since you lost a lot of quality using gif.
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/f9ba167ccc4f5d98b016680a2cfb356dbcffeb3f)
+
+### Day 87: September 19, 2020 
+
+**Today's Progress**: 
+- [x] Create contact section with email form and social links
+- [x] Fill head with description and open graph protocol tags
+- [x] Fix links contrast issue
+- [x] Change header order to keep semantic structure
+
+**Thoughts**: It was a good productive day.
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/c26752578d520807c8581ece944121cfc469d7eb)
+
+
