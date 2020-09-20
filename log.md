@@ -684,4 +684,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/c26752578d520807c8581ece944121cfc469d7eb)
 
+### Day 88: September 20, 2020 
+
+**Today's Progress**: I managed to integrate sendgrid email API into my portfolio to handle email sending from my contact form.
+
+**Thoughts**: Then I took the afternoon off to share with the family, play games and watch series.
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/a93c99df552aeddcf206fd8b039b8d2eccfeeecb)
+
 
