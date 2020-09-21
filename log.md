@@ -692,4 +692,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/a93c99df552aeddcf206fd8b039b8d2eccfeeecb)
 
+### Day 89: September 21, 2020 
+
+**Today's Progress**: I added a snackbar notification for successful emails in the contact section and made a skills rack with icon logos for the about section.
+
+**Thoughts**: I wanted to work a little more but couldn't find inspiration, so I did a kata in Codewars and called it a day.
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/18c55cac73673519a6efc1e5aef42b2382f5c169)
+
 
