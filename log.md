@@ -700,4 +700,10 @@ and try to get rid of some bugs.
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/18c55cac73673519a6efc1e5aef42b2382f5c169)
 
+### Day 90: September 22, 2020 
+
+**Today's Progress**: I replaced all the "lorem" placeholders in the about section of my portfolio with real data. Also made major layout changes in the same section and a few less elsewhere.
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/ba2e3d5499d8f0bbe914aa5fd2fd8f9c4a2c05df)
+
 
