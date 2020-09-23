@@ -706,4 +706,12 @@ and try to get rid of some bugs.
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/ba2e3d5499d8f0bbe914aa5fd2fd8f9c4a2c05df)
 
+### Day 91: September 23, 2020 
+
+**Today's Progress**: Added a hover overlay to project images with links to repository and live preview, I also made some optimization and accessibility fixes following Lighthouse advice.
+
+**Thoughts**: What are your thoughts on service workers? Is it worth implementing in a portfolio project?
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/cf76d8ffccfaa8ede4d4208fc2df14b3aa403a75)
+
 
