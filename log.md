@@ -714,4 +714,16 @@ and try to get rid of some bugs.
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/cf76d8ffccfaa8ede4d4208fc2df14b3aa403a75)
 
+### Day 92: September 24, 2020 
+
+**Today's Progress**: 
+- [x] Improve portfolio grid layout
+- [x] Update projects info and thumbnails
+- [x] Add profile picture in contact section
+
+**Thoughts**: These days my eyesight has felt a bit tired so I will take breaks more often.
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/74d8905799fd3a41ccfe44f561e0ea9b434c840d)
+
+
 
