@@ -725,5 +725,16 @@ and try to get rid of some bugs.
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/74d8905799fd3a41ccfe44f561e0ea9b434c840d)
 
+### Day 93: September 25, 2020 
+
+**Today's Progress**: 
+- [x] Update footer
+- [x] Fix send email serverless function
+- [x] Change profile picture
+
+**Thoughts**: The only thing left is to redo my resumé, at the moment the link does not lead to any site.
+
+**Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/1dab0ea87f0883f11fa95ef2b531c615697deb5b)
+
 
 
