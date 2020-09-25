@@ -729,7 +729,7 @@ and try to get rid of some bugs.
 
 **Today's Progress**: 
 - [x] Update footer
-- [x] Fix send email serverless function
+- [x] Fix mail serverless function
 - [x] Change profile picture
 
 **Thoughts**: The only thing left is to redo my resumé, at the moment the link does not lead to any site.
