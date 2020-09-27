@@ -736,5 +736,10 @@ and try to get rid of some bugs.
 
 **Link to work:** [Portfolio](https://github.com/kelvinsanchez15/portfolio/commit/1dab0ea87f0883f11fa95ef2b531c615697deb5b)
 
+### Day 94: September 26, 2020 
+
+**Today's Progress**: I took Saturday off, but invested time looking for new ideas for future projects.
+
+**Thoughts**: I tried Hades and it was pretty fun, if you are into roguelike games give it a chance.
 
 
