@@ -742,4 +742,12 @@ and try to get rid of some bugs.
 
 **Thoughts**: I tried Hades and it was pretty fun, if you are into roguelike games give it a chance.
 
+### Day 95: September 27, 2020 
+
+**Today's Progress**: I spent the day redoing my resumé and changing details in the project information.
+
+**Thoughts**: I know there are things that can be improved, but at least I already have a starting point.
+
+**Link to release:** [Resume](https://drive.google.com/file/d/1e5K-hbuE2y4yE_TXEXt3BXQcYuRdDcrn/view?usp=sharing)
+
 
