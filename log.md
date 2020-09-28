@@ -752,9 +752,9 @@ and try to get rid of some bugs.
 
 ### Day 96: September 28, 2020 
 
-**Today's Progress**: 
+**Today's Progress**: My personal web developer portfolio is completed!
 
-**Thoughts**:
+**Thoughts**: Let me know what you think, any feedback is appreciated.
 
 **Link to release:** [Portfolio](https://kelvinsanchez.vercel.app/)
 ![Portfolio material resizer mockup (6)](https://user-images.githubusercontent.com/4708484/94466143-f9a11780-018e-11eb-8faa-8dcd22c15b6f.png)
