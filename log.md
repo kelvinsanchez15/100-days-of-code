@@ -759,6 +759,12 @@ and try to get rid of some bugs.
 **Link to release:** [Portfolio](https://kelvinsanchez.vercel.app/)
 ![Portfolio material resizer mockup (6)](https://user-images.githubusercontent.com/4708484/94466143-f9a11780-018e-11eb-8faa-8dcd22c15b6f.png)
 
+### Day 97: September 29, 2020 
 
+**Today's Progress**: I started doing a small side project where I'll integrate MongoDB/Mongoose with NextJS and Material UI. 
+
+**Thoughts**: The idea is to use serverless functions and take advantage of Vercel fast deploy.
+
+**Link to work:** [Portfolio](https://kelvinsanchez.vercel.app/)
 
 
