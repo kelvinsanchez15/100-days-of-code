@@ -767,4 +767,15 @@ and try to get rid of some bugs.
 
 **Link to work:** [A-note](https://github.com/kelvinsanchez15/a-note/commit/67f4992160dc0400dcee421f53831ed9016e9d2f)
 
+### Day 97: September 29, 2020 
+
+**Today's Progress**: 
+- [x] Add database connection util function
+- [x] Create User and Note models
+- [x] Create user API route with validators
+
+**Thoughts**: I also helped a friend to update information on his website.
+
+**Link to work:** [A-note](https://github.com/kelvinsanchez15/a-note/commit/7126bab9bc2997a758075187ee8b66e9a83a9a41)
+
 
