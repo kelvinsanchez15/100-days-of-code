@@ -778,4 +778,17 @@ and try to get rid of some bugs.
 
 **Link to work:** [A-note](https://github.com/kelvinsanchez15/a-note/commit/7126bab9bc2997a758075187ee8b66e9a83a9a41)
 
+### Day 98: September 30, 2020 
+
+**Today's Progress**: 
+- [x] Fix typo on my portfolio (thanks @Audrey)
+- [x] Refactor and fixes on my note taking app
+- [x] Add password hashing middleware
+- [x] Create user ID dynamic route
+
+**Thoughts**: I tend to be more productive in the morning, but today everything was reversed.
+
+**Link to work:** [A-note](https://github.com/kelvinsanchez15/a-note/commit/3d7571d7eaf25c9efec1c7215ce99d0d8548aa40)
+
+
 
