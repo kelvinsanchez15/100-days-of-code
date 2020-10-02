@@ -790,5 +790,8 @@ and try to get rid of some bugs.
 
 **Link to work:** [A-note](https://github.com/kelvinsanchez15/a-note/commit/3d7571d7eaf25c9efec1c7215ce99d0d8548aa40)
 
+### Day 100: October 02, 2020 
 
+I'm happy to have completed the challenge, it was very helpful to keep track of my progress and share with other people who follow the same path.
+I'll give you a quick recap of what I accomplished during the past 100 days.
 
