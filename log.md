@@ -788,10 +788,14 @@ and try to get rid of some bugs.
 
 **Thoughts**: I tend to be more productive in the morning, but today everything was reversed.
 
-**Link to work:** [A-note](https://github.com/kelvinsanchez15/a-note/commit/3d7571d7eaf25c9efec1c7215ce99d0d8548aa40)
+**Link to work:** 
 
 ### Day 100: October 02, 2020 
 
 I'm happy to have completed the challenge, it was very helpful to keep track of my progress and share with other people who follow the same path.
 I'll give you a quick recap of what I accomplished during the past 100 days.
+
+[Recap Twitter Thread](https://twitter.com/kelvin_sanchez/status/1312168612107448320)
+
+
 
