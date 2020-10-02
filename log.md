@@ -781,7 +781,7 @@ and try to get rid of some bugs.
 ### Day 99: October 01, 2020 
 
 **Today's Progress**: 
-- [x] Fix typo on my portfolio (thanks @Audrey)
+- [x] Fix typo on my portfolio
 - [x] Refactor and fixes on my note taking app
 - [x] Add password hashing middleware
 - [x] Create user ID dynamic route
