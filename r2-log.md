@@ -2,7 +2,7 @@
 
 The log of my second round of the #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
 
-## Objectives / To-do
+## Objectives / Tasks
 - [ ] Apply for jobs
 - [ ] Train and prepare for jobs interviews 
 - [ ] Try freelancing
