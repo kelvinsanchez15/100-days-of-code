@@ -1,4 +1,6 @@
-# 100 Days Of Code - Log
+# #100DaysOfCode Log - Round 1 - [Kelvin Sánchez]
+
+The log of my #100DaysOfCode challenge. Started on [June 25, Thursdayy, 2020].
 
 ### Day 1: June 25, 2020 
 
