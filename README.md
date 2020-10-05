@@ -1,9 +1,13 @@
 # I've joined the #100DaysOfCode Challenge
 
+## Check my progress
+
+- [R1-log (completed)](r1-log.md)
+- [R2-log (in progress)](r2-log.md)
+
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
