@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 2 - [Kelvin Sánchez]
 
-The log of my second round of the #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
+The log of my #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
 
 ## Objectives / Tasks
 - [ ] Apply for jobs
