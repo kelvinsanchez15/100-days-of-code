@@ -7,7 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
 - [ ] Train and prepare for jobs interviews 
 - [ ] Try freelancing
 - [ ] Build strong projects for my portfolio
-- [ ] Improve projects README files
+- [ ] Improve projects README file
 - [ ] Connect with people / Join more coding communities
 - [ ] Make Open Source contributions
 - [ ] Learn PostgreSQL
