@@ -19,7 +19,8 @@ The log of my #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
 
 ### R2D1
 - [x] 5 Kyu "Pagination Helper" kata at codewars
-- [x] Generate authentication tokens with JWT (Note-taking app)
+- [x] Update login logic (Note-taking app)
+- [x] Generate authentication tokens with JWT
 
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/1af2a5669637ea55713c7167a61c295e34af0200)
 
