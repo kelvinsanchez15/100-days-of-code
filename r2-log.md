@@ -31,4 +31,13 @@ The log of my #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
 - [x] Add auth middleware and create logout route (Note-taking app)
 
 [Portfolio (Link to issue)](https://github.com/kelvinsanchez15/portfolio/issues/5)
-[Portfolio (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/4f6a346d10fc9943aacf0ef278c5308247b5856b)
+[A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/4f6a346d10fc9943aacf0ef278c5308247b5856b)
+
+### R2D3
+- [x] Hide sensitive data on queries (Note-taking app)
+- [x] Create all routes for notes
+- [x] Add middleware to delete notes references on user deletion
+- [x] Add support for sort, pagination and filter
+- [x] Deploy and test API
+
+[A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/dc6075ae119adddf9b2660d799757ac0686e4f15)
