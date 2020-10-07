@@ -30,8 +30,8 @@ The log of my #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
 - [x] Add Font/Image optimization (Portfolio)
 - [x] Add auth middleware and create logout route (Note-taking app)
 
-[Portfolio (Link to issue)](https://github.com/kelvinsanchez15/portfolio/issues/5)
-[A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/4f6a346d10fc9943aacf0ef278c5308247b5856b)
+- [Portfolio (Link to issue)](https://github.com/kelvinsanchez15/portfolio/issues/5)
+- [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/4f6a346d10fc9943aacf0ef278c5308247b5856b)
 
 ### R2D3
 - [x] Hide sensitive data on queries (Note-taking app)
