@@ -41,3 +41,10 @@ The log of my #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
 - [x] Deploy and test API
 
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/dc6075ae119adddf9b2660d799757ac0686e4f15)
+
+### R2D4
+- [x] 5 Kyu "Pick peaks" kata at codewars
+- [x] Add lazy loading support (Portfolio)
+- [x] Improve accessibility by making changes to improve color contrast
+
+[Portfolio (Link to commit)](https://github.com/kelvinsanchez15/portfolio/commit/746eaa96163d81f4f38cd269b559242fd5ddb400)
