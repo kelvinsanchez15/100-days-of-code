@@ -53,3 +53,8 @@ The log of my #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
 One day of fighting hard against Auth in NextJS, I managed to add a JWT token on cookies when logging in but I'm not sure how to query the API with that cookie.
 
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/d119c738391ca9548955b1bc6183d43d1f5da23f)
+
+### R2D6
+I was able to identify my note app issue, SWR keeps making request to the API and it returns 401 errors, but I don't want them to appear in the console, I would like to handle them on my own. Redirecting the user to /login for example.
+
+[A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/22808b83ba39fbb48d86e791738439c599f4e133)
