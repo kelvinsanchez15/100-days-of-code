@@ -58,3 +58,10 @@ One day of fighting hard against Auth in NextJS, I managed to add a JWT token on
 I was able to identify my note app issue, SWR keeps making request to the API and it returns 401 errors, but I don't want them to appear in the console, I would like to handle them on my own. Redirecting the user to /login for example.
 
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/22808b83ba39fbb48d86e791738439c599f4e133)
+
+### R2D6
+Today I made progress in an excellent course by @arunoda , "Bulletproof Next".
+Now I have more clear the differences between Server Side Rendering and Static Generation.
+
+
+
