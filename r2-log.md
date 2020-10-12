@@ -60,6 +60,10 @@ I was able to identify my note app issue, SWR keeps making request to the API an
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/22808b83ba39fbb48d86e791738439c599f4e133)
 
 ### R2D7
+Today I made good progress in "Bulletproof Next", an excellent NextJS course by @arunoda
+Now I have more clear the differences between Server Side Rendering and Static Generation.
+
+### R2D8
 - [x] Update login page
 - [x] Crate SWR custom hook to fetch user notes
 - [x] Make sign up page
