@@ -79,3 +79,12 @@ It is already taking shape!
 
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/1ce564eb08e9cfe94cfba1c61ccdd27a0be7d8a4)
 
+### R2D10
+- [x] Create temporal note IDs with uuid library
+- [x] Implement optimistic updates on new note creation
+- [x] Add divider between notes
+- [x] Add relative time support with date-fns library
+- [x] Fix margin/padding issue on new note input 
+
+[A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/17362b678221fb2415fc98278fc98dfdbce55518)
+
