@@ -75,5 +75,7 @@ Now I have more clear the differences between Server Side Rendering and Static G
 I worked on the front end of my note-taking app, made some changes to the API, and narrowed the scope of the project.
 It is already taking shape!
 
+![image](https://user-images.githubusercontent.com/4708484/95928335-18a6c880-0d8f-11eb-9820-377c003c3b5c.png)
+
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/1ce564eb08e9cfe94cfba1c61ccdd27a0be7d8a4)
 
