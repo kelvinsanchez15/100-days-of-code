@@ -92,6 +92,8 @@ It is already taking shape!
 Today I learned how to use Cloudinary to handle image upload with serverless functions, I also did a bit of work in terms of the profile page.
 I also did a little work on the profile page.
 
+![anote1](https://user-images.githubusercontent.com/4708484/96195608-2ee18f80-0f1b-11eb-8e77-29005c670305.jpg)
+
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/6bec8dda9902ca62b400d2ecc1d211dce960a679)
 
 
