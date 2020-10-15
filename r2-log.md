@@ -88,3 +88,11 @@ It is already taking shape!
 
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/17362b678221fb2415fc98278fc98dfdbce55518)
 
+### R2D11
+Today I learned how to use Cloudinary to handle image upload with serverless functions, I also did a bit of work in terms of the profile page.
+I also did a little work on the profile page.
+
+[A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/6bec8dda9902ca62b400d2ecc1d211dce960a679)
+
+
+
