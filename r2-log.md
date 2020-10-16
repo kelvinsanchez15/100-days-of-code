@@ -96,5 +96,13 @@ I also did a little work on the profile page.
 
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/6bec8dda9902ca62b400d2ecc1d211dce960a679)
 
+### R2D12
+- [x] Code refactor and format fixes
+- [x] Add skeleton layout on note loading
+- [x] Revamp signin/signup pages
+- [x] Customize theme colors
+
+[A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/8def05e0e396bb84e7748494b5c3e00deea02ce9)
+
 
 
