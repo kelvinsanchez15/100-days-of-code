@@ -108,6 +108,14 @@ I also did a little work on the profile page.
 I made some changes and refactor to my note app code, but then I took the day to rest.
 When my eyes start to feel tired I force myself to do so.
 
+### R2D14
+- [x] Implemented optimistic updates on note patch and delete (with error handling and rollbacks)
+- [x] Minor style changes
+- [x] Good progress in the user profile section
+
+[A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/b0d06ac81e3d965d0936cac4c7e0319de10703d5)
+
+
 
 
 
