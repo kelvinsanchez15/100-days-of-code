@@ -104,5 +104,11 @@ I also did a little work on the profile page.
 
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/8def05e0e396bb84e7748494b5c3e00deea02ce9)
 
+### R2D13
+I made some changes and refactor to my note app code, but then I took the day to rest.
+When my eyes start to feel tired I force myself to do so.
+
+
+
 
 
