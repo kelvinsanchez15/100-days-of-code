@@ -117,6 +117,7 @@ When my eyes start to feel tired I force myself to do so.
 
 ### R2D15
 Yesterday was a tough day and I couldn't code much but today I fought hard with the profile page and made a lot of progress.
+
 React forms are not laughing matter.
 
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/daa4bd0af999cda82abb665db7a0b669126f68d8)
