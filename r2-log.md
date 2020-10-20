@@ -106,6 +106,7 @@ I also did a little work on the profile page.
 
 ### R2D13
 I made some changes and refactor to my note app code, but then I took the day to rest.
+
 When my eyes start to feel tired I force myself to do so.
 
 ### R2D14
