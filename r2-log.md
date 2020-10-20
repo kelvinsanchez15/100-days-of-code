@@ -115,6 +115,12 @@ When my eyes start to feel tired I force myself to do so.
 
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/b0d06ac81e3d965d0936cac4c7e0319de10703d5)
 
+### R2D15
+Yesterday was a tough day and I couldn't code much but today I fought hard with the profile page and made a lot of progress.
+React forms are not laughing matter.
+
+[A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/daa4bd0af999cda82abb665db7a0b669126f68d8)
+
 
 
 
