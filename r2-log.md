@@ -123,6 +123,10 @@ React forms are not laughing matter.
 
 [A-note (Link to commit)](https://github.com/kelvinsanchez15/a-note/commit/daa4bd0af999cda82abb665db7a0b669126f68d8)
 
+### R2D16
+Today I celebrated my birthday with my family and loved ones, however I used part of the day to study PostgreSQL basics and finally upgrade my old reliable Windows 7 to Windows 10.
+
+
 
 
 
