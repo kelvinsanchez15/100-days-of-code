@@ -127,12 +127,12 @@ React forms are not laughing matter.
 Today I celebrated my birthday with my family and loved ones, however I used part of the day to study PostgreSQL basics and finally upgrade my old reliable Windows 7 to Windows 10.
 
 ### R2D17: #100DaysOfCode 
-My MERN/JAMStack note taking app is completed!
+My JAMStack note taking app is completed!
 
 Main features:
 - [x] Optimistic UI
 - [x] Serveless API routes
-- [x] Serveless API routes
+- [x] JWT Authentication
 
 ![a-note 3 Device Mashup resized](https://user-images.githubusercontent.com/4708484/97062612-ac378080-1569-11eb-8415-c75892aa8256.jpg)
 
