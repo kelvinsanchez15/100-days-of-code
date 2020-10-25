@@ -126,7 +126,7 @@ React forms are not laughing matter.
 ### R2D16
 Today I celebrated my birthday with my family and loved ones, however I used part of the day to study PostgreSQL basics and finally upgrade my old reliable Windows 7 to Windows 10.
 
-### R2D17: #100DaysOfCode 
+### R2D17
 My JAMStack note taking app is completed!
 
 Main features:
@@ -137,6 +137,14 @@ Main features:
 ![a-note Device Mashup](https://user-images.githubusercontent.com/4708484/97116897-bdea6680-16d6-11eb-8f0e-1335fb83be4b.jpg)
 
 [A-note (Link to release)](https://a-note.vercel.app/)
+
+### R2D18 
+- [x] Update A-Note readme file
+- [x] Add A-Note project info and thumbnail to portfolio
+- [x] Update navbar and hero section of portfolio
+
+[Portfolio (Link to commit)](https://github.com/kelvinsanchez15/portfolio/commit/f8234ceda650198965bd9205c5a1e54dd2c49c31)
+
 
 
 
