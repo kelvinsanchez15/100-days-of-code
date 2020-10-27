@@ -145,6 +145,11 @@ Main features:
 
 [Portfolio (Link to commit)](https://github.com/kelvinsanchez15/portfolio/commit/f8234ceda650198965bd9205c5a1e54dd2c49c31)
 
+### R2D19
+Invested the day watching the Nextjs conf and migrated my portfolio to Next v10 without problems, gaining access to analytics and new features that I plan to test in the following days.
+
+[Portfolio (Link to commit)](https://github.com/kelvinsanchez15/portfolio/commit/68a7d913be2b8a5778276859889335ae99d38f65)
+
 
 
 
