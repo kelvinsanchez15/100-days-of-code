@@ -150,8 +150,10 @@ Invested the day watching the Nextjs conf and migrated my portfolio to Next v10 
 
 [Portfolio (Link to commit)](https://github.com/kelvinsanchez15/portfolio/commit/68a7d913be2b8a5778276859889335ae99d38f65)
 
+### R2D20
+Today I did some tests putting together NextJS, Prisma, Postgres and NextAuth.
 
-
+I need to read Prisma documentation more calmly, so that will be tomorrow task.
 
 
 
