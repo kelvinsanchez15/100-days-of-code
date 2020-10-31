@@ -157,7 +157,13 @@ I need to read Prisma documentation more calmly, so that will be tomorrow task.
 
 ### R2D21
 I kept working on PostgreSQL basics.
+
 So much to avoid doing my own migrations, but at the end Prisma "forced" me to do it because there's a bug on cascade deletions.
+
+### R2D22
+I followed the first hour of the PostgreSQL tutorial from @AmigosCode I plan to continue tomorrow.
+
+Also designed a basic schema with users/post/comments relations to practice CRUD operations.
 
 
 
