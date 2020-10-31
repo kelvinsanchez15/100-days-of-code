@@ -155,6 +155,10 @@ Today I did some tests putting together NextJS, Prisma, Postgres and NextAuth.
 
 I need to read Prisma documentation more calmly, so that will be tomorrow task.
 
+### R2D21
+I kept working on PostgreSQL basics.
+So much to avoid doing my own migrations, but at the end Prisma "forced" me to do it because there's a bug on cascade deletions.
+
 
 
 
