@@ -172,7 +172,12 @@ Also designed a basic schema with users/post/comments relations to practice CRUD
 
 At the end of the day I had a problem with a serverless function, I spent a lot of time looking for a solution. Turns out the function was fine, I was fetching 'localhost'.
 
+### R2D24
+I was able to perform some tasks, but got really tired fixing a problem with an 'undeletable' folder. 
 
+After an intense search I found that it was a VS Code extension that generated the problem.
+
+I opened an issue in case it might be of help to others.
 
 
 
