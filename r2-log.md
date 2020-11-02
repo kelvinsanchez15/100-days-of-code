@@ -166,9 +166,9 @@ I followed the first hour of the PostgreSQL tutorial from @AmigosCode I plan to 
 Also designed a basic schema with users/post/comments relations to practice CRUD operations.
 
 ### R2D23
--[x] PostgreSQL lessons
--[x] Set custom .env variable config for Prisma
--[x] Deploy of CRUD example on Vercel
+- [x] PostgreSQL lessons
+- [x] Set custom .env variable config for Prisma
+- [x] Deploy of CRUD example on Vercel
 
 At the end of the day I had a problem with a serverless function, I spent a lot of time looking for a solution. Turns out the function was fine, I was fetching 'localhost'.
 
