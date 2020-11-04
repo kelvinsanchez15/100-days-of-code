@@ -179,6 +179,9 @@ After an intense search I found that it was a VS Code extension that generated t
 
 I opened an issue in case it might be of help to others.
 
+### R2D25
+I finished doing integration tests with Prisma and started working on my next portfolio project.
 
+I'm glad to know that the issue I reported yesterday was fixed today and helped at least one person.
 
 
