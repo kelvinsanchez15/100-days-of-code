@@ -184,4 +184,13 @@ I finished doing integration tests with Prisma and started working on my next po
 
 I'm glad to know that the issue I reported yesterday was fixed today and helped at least one person.
 
+### R2D26
+- [x] Set basic boilerplate 
+- [x] Create custom MUI dark theme
+- [x] Make components for: Main navbar, Project navbar, Filters, Issues subheader & Issues list
+
+I am revisiting my Issue Tracker project, this time I will use React and implement new features.
+
+I decided to start with the front-end this time using a JSON response from GitHub API as dummy data.
+
 
