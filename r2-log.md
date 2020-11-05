@@ -10,7 +10,7 @@ The log of my #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
 - [ ] Improve projects README file
 - [ ] Connect with people / Join more coding communities
 - [ ] Make Open Source contributions
-- [ ] Learn PostgreSQL
+- [x] Learn PostgreSQL
 - [ ] Start using TypeScript
 - [ ] Learn Enzyme/React testing library
 - [ ] Read books and work on my fundamentals (JavaScript, Data Structures) 
@@ -192,5 +192,13 @@ I'm glad to know that the issue I reported yesterday was fixed today and helped 
 I am revisiting my Issue Tracker project, this time I will use React and implement new features.
 
 I decided to start with the front-end this time using a JSON response from GitHub API as dummy data.
+
+### R2D27
+- [x] Start working in database model
+- [x] Add and set Prisma + Next-Auth
+- [x] Create withSession HOC
+- [x] Update navbar to use OAuth data
+
+
 
 
