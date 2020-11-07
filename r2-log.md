@@ -205,7 +205,7 @@ I decided to start with the front-end this time using a JSON response from GitHu
 3. Test it
 4. Repeat
 
-That was my loop todayCara sonriente con boca abierta y sudor frío (Also the usual googling about multifield unique indexes and many to many relations)
+That was my loop today. (Also the usual googling about multifield unique indexes and many to many relations)
 
 ### R2D29
 I've been doing stunts with NextJS's "catch all" API routes to get all the endpoints I need. I couldn't code in the afternoon because a power outage in my area.
