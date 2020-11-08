@@ -210,4 +210,5 @@ That was my loop today. (Also the usual googling about multifield unique indexes
 ### R2D29
 I've been doing stunts with NextJS's "catch all" API routes to get all the endpoints I need. I couldn't code in the afternoon because a power outage in my area.
 
-
+### R2D30
+Did an hour of coding and then took the day off to rest and read the recently released Dawnshard novella by Brandon Sanderson. I'm currently halfway there, but I'm loving it so far.
