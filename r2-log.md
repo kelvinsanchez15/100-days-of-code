@@ -212,3 +212,6 @@ I've been doing stunts with NextJS's "catch all" API routes to get all the endpo
 
 ### R2D30
 Did an hour of coding and then took the day off to rest and read the recently released Dawnshard novella by Brandon Sanderson. I'm currently halfway there, but I'm loving it so far.
+
+### R2D31
+Successful created my first PostgreSQL trigger, I needed a parent based 'number' field and a trigger turned out to be a good fit. Also did some work on a database seeder to ease endpoint testing.
