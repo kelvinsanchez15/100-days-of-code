@@ -215,3 +215,9 @@ Did an hour of coding and then took the day off to rest and read the recently re
 
 ### R2D31
 Successful created my first PostgreSQL trigger, I needed a parent based 'number' field and a trigger turned out to be a good fit. Also did some work on a database seeder to ease endpoint testing.
+
+### R2D32
+- [x] Create user page with profile and repos components
+- [x] Make issue/labels m-n relation implicit
+- [x] Update issuesList component with database data
+- [x] Create main issues page
