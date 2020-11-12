@@ -221,3 +221,6 @@ Successful created my first PostgreSQL trigger, I needed a parent based 'number'
 - [x] Make issue/labels m-n relation implicit
 - [x] Update issuesList component with database data
 - [x] Create main issues page
+
+### R2D33 
+I spent half day away from home renewing my ID, but after that I worked creating filters and sorters for my Issue Tracker.
