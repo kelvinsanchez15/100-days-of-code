@@ -224,3 +224,6 @@ Successful created my first PostgreSQL trigger, I needed a parent based 'number'
 
 ### R2D33 
 I spent half day away from home renewing my ID, but after that I worked creating filters and sorters for my Issue Tracker.
+
+### R2D34
+I woke up feeling sick with the flu, however I made good progress on an Issue Sorter dropdown component for my project.
