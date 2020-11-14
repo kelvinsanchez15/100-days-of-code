@@ -227,3 +227,10 @@ I spent half day away from home renewing my ID, but after that I worked creating
 
 ### R2D34
 I woke up feeling sick with the flu, however I made good progress on an Issue Sorter dropdown component for my project.
+
+### R2D35
+I took yesterday to rest and woke up a little better.
+
+Today I worked on the pagination implementation for my Issue Tracker. 
+
+In the near future I have to refactor the code block where I query my database (It became a monster).
