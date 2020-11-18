@@ -234,3 +234,10 @@ I took yesterday to rest and woke up a little better.
 Today I worked on the pagination implementation for my Issue Tracker. 
 
 In the near future I have to refactor the code block where I query my database (It became a monster).
+
+### R2D36
+Completed the remaining dropdowns and started working on "POST" pages.
+I'm struggling with NextAuth because I couldn't find a good way to mutate the session object without refreshing the page or regaining focus 
+
+### R2D37
+Today I received a freelancer job proposal to make a website that serves as a portfolio for architects and designers, the detail is that the client wants me to use Wordpress
