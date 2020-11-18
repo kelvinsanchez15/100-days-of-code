@@ -241,3 +241,10 @@ I'm struggling with NextAuth because I couldn't find a good way to mutate the se
 
 ### R2D37
 Today I received a freelancer job proposal to make a website that serves as a portfolio for architects and designers, the detail is that the client wants me to use Wordpress
+
+### R2D32
+- [x] Add Google OAuth provider
+- [x] Create custom sign in page
+- [x] Deploy to vercel for production testing
+- [x] Add linear progress bar between pages
+- [x] Create New Repo form page
