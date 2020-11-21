@@ -248,3 +248,6 @@ Today I received a freelancer job proposal to make a website that serves as a po
 - [x] Deploy to vercel for production testing
 - [x] Add linear progress bar between pages
 - [x] Create New Repo form page
+
+### R2D39 
+Lite coding day, just did a refactor to some endpoints with a session middleware and created a "new issue" form page.
