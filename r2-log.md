@@ -251,3 +251,6 @@ Today I received a freelancer job proposal to make a website that serves as a po
 
 ### R2D39 
 Lite coding day, just did a refactor to some endpoints with a session middleware and created a "new issue" form page.
+
+### R2D40
+Invested my time migrating some server side rendered pages to use NextJS incremental static regeneration, on static pages you can't access query parameters so I'm using SSR on those who need it.
