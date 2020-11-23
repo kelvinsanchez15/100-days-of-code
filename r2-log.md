@@ -254,3 +254,6 @@ Lite coding day, just did a refactor to some endpoints with a session middleware
 
 ### R2D40
 Invested my time migrating some server side rendered pages to use NextJS incremental static regeneration, on static pages you can't access query parameters so I'm using SSR on those who need it.
+
+### R2D40
+I made good progress on the components for individual issues, also created an endpoint to be able to do patch and delete actions.
