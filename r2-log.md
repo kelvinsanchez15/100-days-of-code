@@ -257,3 +257,6 @@ Invested my time migrating some server side rendered pages to use NextJS increme
 
 ### R2D41
 I made good progress on the components for individual issues, also created an endpoint to be able to do patch and delete actions.
+
+### R2D42
+Today I was working on a new logo for a friend's business, as for coding I spent a while making the editable components for my Issue Tracker.
