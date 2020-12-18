@@ -260,3 +260,6 @@ I made good progress on the components for individual issues, also created an en
 
 ### R2D42
 Today I was working on a new logo for a friend's business, as for coding I spent a while making the editable components for my Issue Tracker.
+
+### R2D43
+Back to the challenge!, despite not keeping a record I kept working on my side projects. I also started collaborating in the spanish translation of FreeCodeCamp and today translated my first article (awaiting revision).
