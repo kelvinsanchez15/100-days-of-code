@@ -263,3 +263,9 @@ Today I was working on a new logo for a friend's business, as for coding I spent
 
 ### R2D43
 Back to the challenge!, despite not keeping a record I kept working on my side projects. I also started collaborating in the spanish translation of FreeCodeCamp and today translated my first article (awaiting revision).
+
+### R2D44
+- [x] Update navbar component
+- [x] Make navbar responsive
+- [x] Add menu drawer component for smaller devices
+- [x] Translate and move to revision another FCC article.
