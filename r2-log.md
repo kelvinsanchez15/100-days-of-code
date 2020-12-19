@@ -269,3 +269,9 @@ Back to the challenge!, despite not keeping a record I kept working on my side p
 - [x] Make navbar responsive
 - [x] Add menu drawer component for smaller devices
 - [x] Translate and move to revision another FCC article.
+
+### R2D45
+- [x] Remove placeholder icons for unimplemented features
+- [x] Update stargazers endpoint
+- [x] Add repo star/unstar frontend feature
+- [x] Bump MUI and ESLint dependencies to most recent version
