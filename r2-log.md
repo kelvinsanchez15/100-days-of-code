@@ -275,3 +275,6 @@ Back to the challenge!, despite not keeping a record I kept working on my side p
 - [x] Update stargazers endpoint
 - [x] Add repo star/unstar frontend feature
 - [x] Bump MUI and ESLint dependencies to most recent version
+
+### R2D46
+Invested some time making an util function to get dynamic styles on labels, using a hex color as input and returning color props for background, text, and border.
