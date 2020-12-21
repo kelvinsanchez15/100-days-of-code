@@ -278,3 +278,6 @@ Back to the challenge!, despite not keeping a record I kept working on my side p
 
 ### R2D46
 Invested some time making an util function to get dynamic styles on labels, using a hex color as input and returning color props for background, text, and border.
+
+### R2D47
+Spend the day working on the responsive layout for the Issues page, making style changes at different breakpoints and making several adjustments.
