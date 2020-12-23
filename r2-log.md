@@ -285,6 +285,6 @@ Spend the day working on a page responsive layout, making style changes at diffe
 ### R2D48
 - [x] Bump some dependencies
 - [x] Use NextJS Image component to optimize avatar images
-- [x] Fix 'li' children on a list for better screen reader support
+- [x] Fix 'UL' childrens on a list for better screen reader support
 - [x] Rename duplicate aria-ids
 - [x] Add missing aria-label on some icon buttons
