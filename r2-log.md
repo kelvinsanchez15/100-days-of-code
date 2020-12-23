@@ -281,3 +281,10 @@ Invested some time making an util function to get dynamic styles on labels, usin
 
 ### R2D47
 Spend the day working on a page responsive layout, making style changes at different breakpoints and several small adjustments.
+
+### R2D48
+- [x] Bump some dependencies
+- [x] Use NextJS Image component to optimize avatar images
+- [x] Fix <li> children on a list for better screen reader support
+- [x] Rename duplicate aria-ids
+- [x] Add missing aria-label on some icon buttons
