@@ -288,3 +288,6 @@ Spend the day working on a page responsive layout, making style changes at diffe
 - [x] Fix 'UL' childrens on a list for better screen reader support
 - [x] Rename duplicate aria-ids
 - [x] Add missing aria-label on some icon buttons
+
+### R2D49
+Today I made my first PR to my favorite component library: Material UI, it will improve the integration with Next.js. 
