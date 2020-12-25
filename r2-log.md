@@ -291,3 +291,11 @@ Spend the day working on a page responsive layout, making style changes at diffe
 
 ### R2D49
 Today I made my first PR to my favorite component library: Material UI, it will improve the integration with Next.js. 
+
+### R2D50
+I got some great news, my PR was merged into Material UI and my first two translated articles were published on freeCodeCamp.
+
+Articles:
+- [https://www.freecodecamp.org/espanol/news/aprende-javascript-imports-exports-let-const-promisas-es6/
+](JavaScript Moderno – Imports, Exports, Let, Const, y Promesas en ES6+)
+- [https://www.freecodecamp.org/espanol/news/encadenamiento-opcional-en-javascript-explicado/](Encadenamiento Opcional en JavaScript `?.` Explicado - Cómo Funciona y Cuándo Usarlo)
