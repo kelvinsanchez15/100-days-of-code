@@ -304,5 +304,5 @@ Articles:
 
 ### R2D51
 - [x] Add markdown support for Issue details and comments
-- [x] Use custom prism SyntaxHighlighter
-- [x] Create and use Link render item to style markdown urls
+- [x] Use custom syntax highlighter
+- [x] Create Link render component to style markdown urls
