@@ -301,3 +301,8 @@ Articles:
 - [JavaScript Moderno – Imports, Exports, Let, Const, y Promesas en ES6+](https://www.freecodecamp.org/espanol/news/aprende-javascript-imports-exports-let-const-promisas-es6/
 )
 - [Encadenamiento Opcional en JavaScript `?.` Explicado - Cómo Funciona y Cuándo Usarlo](https://www.freecodecamp.org/espanol/news/encadenamiento-opcional-en-javascript-explicado/)
+
+### R2D51
+- [x] Add markdown support for Issue details and comments
+- [x] Use custom prism SyntaxHighlighter
+- [x] Create and use Link render item to style markdown urls
