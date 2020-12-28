@@ -306,3 +306,9 @@ Articles:
 - [x] Add markdown support for Issue details and comments
 - [x] Use custom syntax highlighter
 - [x] Create Link render component to style markdown urls
+
+### R2D52
+- [x] Upgrade individual issues grid layout
+- [x] Add labels to issue header
+- [x] Fix vertically center header action
+- [x] Adjust avatar sizes and card header padding
