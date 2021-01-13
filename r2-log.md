@@ -315,3 +315,6 @@ Articles:
 
 ### R2D53
 Today I made progress on an original article, fixed some bugs in my Issue Tracker, and added missing features.
+
+### R254
+I invested the day adding i18n support to my personal portfolio, with Spanish and English which are the languages I currently speak. I'm pretty happy with the results.
