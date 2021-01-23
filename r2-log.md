@@ -318,3 +318,6 @@ Today I made progress on an original article, fixed some bugs in my Issue Tracke
 
 ### R2D54
 I invested the day adding i18n support to my personal portfolio, with Spanish and English which are the languages I currently speak. I'm pretty happy with the results.
+
+### R2D55
+I added a Blog section to my portfolio with some articles that I've been translating and writing for @freecodecampES. In the future I want to automate the data fetching process.
