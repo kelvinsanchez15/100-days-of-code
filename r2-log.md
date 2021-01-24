@@ -321,3 +321,9 @@ I invested the day adding i18n support to my personal portfolio, with Spanish an
 
 ### R2D55
 I added a Blog section to my portfolio with some articles that I've been translating and writing for @freecodecampES. In the future I want to automate the data fetching process.
+
+### R2D56
+- [x] Create lint and format scripts
+- [x] Automate pre-commit hooks with Husky
+- [x] Change card HTML element from 'div' to 'article'
+- [x] Refactor mail API function
