@@ -327,3 +327,7 @@ I added a Blog section to my portfolio with some articles that I've been transla
 - [x] Automate pre-commit hooks with Husky
 - [x] Change card HTML element from 'div' to 'article'
 - [x] Refactor mail API function
+
+### R2D57
+I've testing Tailwind CSS for the first time by making a Landing Page, so far I like how intuitive its API is and how fast you can make fully custom desings.
+
