@@ -331,3 +331,6 @@ I added a Blog section to my portfolio with some articles that I've been transla
 ### R2D57
 I've testing Tailwind CSS for the first time by making a Landing Page, so far I like how intuitive its API is and how fast you can make fully custom desings.
 
+### R2D58
+I had a job interview yesterday for a Front End position, It was a pretty good experience and it felt very natural. I just need to wait for results (there are several steps).
+
