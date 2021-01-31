@@ -334,3 +334,6 @@ I've testing Tailwind CSS for the first time by making a Landing Page, so far I 
 ### R2D58
 I had a job interview yesterday for a Front End position, It was a pretty good experience and it felt very natural. I just need to wait for results (there are several steps).
 
+### R2D59
+I stopped updating my #100DaysOfCode progress recently because I've been working only on translations, but those translation are code related. So... I'm safe right? Just going over the basics.
+
