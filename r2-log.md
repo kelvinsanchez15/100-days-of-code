@@ -3,15 +3,15 @@
 The log of my #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
 
 ## Objectives / Tasks
-- [ ] Apply for jobs
+- [x] Apply for jobs
 - [ ] Train and prepare for jobs interviews 
 - [ ] Try freelancing
 - [ ] Build strong projects for my portfolio
 - [ ] Improve projects README file
-- [ ] Connect with people / Join more coding communities
-- [ ] Make Open Source contributions
+- [x] Connect with people / Join more coding communities
+- [x] Make Open Source contributions
 - [x] Learn PostgreSQL
-- [ ] Start using TypeScript
+- [x] Start using TypeScript
 - [ ] Learn Enzyme/React testing library
 - [ ] Read books and work on my fundamentals (JavaScript, Data Structures) 
 
@@ -337,3 +337,9 @@ I had a job interview yesterday for a Front End position, It was a pretty good e
 ### R2D59
 I stopped updating my #100DaysOfCode progress recently because I've been working only on translations, but those translation are code related. So... I'm safe right? Just going over the basics.
 
+### R2D60
+- [x] Bump dependencies and test
+- [x] Closed fixed issues
+- [x] Meet with translators and QA
+- [x] Add missing translations after merged PR
+- [x] Proofreading
