@@ -343,3 +343,6 @@ I stopped updating my #100DaysOfCode progress recently because I've been working
 - [x] Meet with translators and QA
 - [x] Add missing translations after merged PR
 - [x] Proofreading
+
+### R2D61
+I've been preparing for an interview and combining content review with proofreading work is helping me a lot.
