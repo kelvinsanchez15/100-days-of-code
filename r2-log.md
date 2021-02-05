@@ -346,3 +346,9 @@ I stopped updating my #100DaysOfCode progress recently because I've been working
 
 ### R2D61
 I've been preparing for an interview and combining content review with proofreading work is helping me a lot.
+
+### R2D62
+- [x] Review CSS selectors
+- [x] Review JavaScript and DOM
+- [x] Approve HTML, CSS and JS practical exam
+- [x] Translation and proofreading work (big surprise coming soon)
