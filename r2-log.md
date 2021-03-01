@@ -352,3 +352,6 @@ I've been preparing for an interview and combining content review with proofread
 - [x] Review JavaScript and DOM
 - [x] Approve HTML, CSS and JS practical exam
 - [x] Translation and proofreading work (big surprise coming soon)
+
+### R2D63
+After two days of hard work I finished migrating my portfolio to typescript, I learned a lot in the process and I know it will help me in future projects.
