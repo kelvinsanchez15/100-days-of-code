@@ -355,3 +355,11 @@ I've been preparing for an interview and combining content review with proofread
 
 ### R2D63
 After two days of hard work I finished migrating my portfolio to typescript, I learned a lot in the process and I know it will help me in future projects.
+
+### R2D64
+I decide to work on some frontmentor challenges to get more practice with Tailwind and Typescript.  
+- [x] Set basic boilerplate
+- [x] Create basic layout
+- [x] Create Card and Header component
+- [ ] Create Search component
+- [ ] Make layout responsive
