@@ -369,4 +369,8 @@ I spent half morning translating the basic JavaScript section of the FCC curricu
 
 I need to do some corrections here and there, but it already looks good to me.
 
+### R2D66
+I started working on another Frontend Mentor challenge, this time it's a landing page. 
+I also had a successful first meeting with my reading group, we are reading Eloquent JavaScript.
+
 
