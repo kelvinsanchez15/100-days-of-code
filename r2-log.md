@@ -373,4 +373,5 @@ I need to do some corrections here and there, but it already looks good to me.
 I started working on another Frontend Mentor challenge, this time it's a landing page. 
 I also had a successful first meeting with my reading group, we are reading Eloquent JavaScript.
 
-
+### R2D67
+My "easybank" landing page is almost done, I had some troubles positioning and making the two SVG's responsive, but learned a few tricks along the way.
