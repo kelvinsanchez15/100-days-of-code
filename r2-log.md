@@ -375,3 +375,6 @@ I also had a successful first meeting with my reading group, we are reading Eloq
 
 ### R2D67
 My "easybank" landing page is almost done, I had some troubles positioning and making the two SVG's responsive, but learned a few tricks along the way.
+
+### R2D68
+Challenge completed! In the future I want to improve it with some animations and details to make it more dynamic. I'm really enjoying Tailwind so far.
