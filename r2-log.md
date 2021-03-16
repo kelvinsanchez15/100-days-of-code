@@ -6,14 +6,14 @@ The log of my #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
 - [x] Apply for jobs
 - [ ] Train and prepare for jobs interviews 
 - [ ] Try freelancing
-- [ ] Build strong projects for my portfolio
+- [x] Build strong projects for my portfolio
 - [ ] Improve projects README file
 - [x] Connect with people / Join more coding communities
 - [x] Make Open Source contributions
 - [x] Learn PostgreSQL
 - [x] Start using TypeScript
 - [ ] Learn Enzyme/React testing library
-- [ ] Read books and work on my fundamentals (JavaScript, Data Structures) 
+- [x] Read books and work on my fundamentals (JavaScript, Data Structures) 
 
 ## Log
 
@@ -378,3 +378,8 @@ My "easybank" landing page is almost done, I had some troubles positioning and m
 
 ### R2D68
 Challenge completed! In the future I want to improve it with some animations and details to make it more dynamic. I'm really enjoying Tailwind so far.
+
+### R2D69
+Today after firing some job applications I decide to work on a pending assignature - Redux.
+
+Going back to my first experience with it I remember how confused I was, but now that I review it much fresher and with a solid base in JavaScript I understand it better.
