@@ -383,3 +383,8 @@ Challenge completed! In the future I want to improve it with some animations and
 Today after firing some job applications I decide to work on a pending assignature - Redux.
 
 Going back to my first experience with it I remember how confused I was, but now that I review it much fresher and with a solid base in JavaScript I understand it better.
+
+### R2D70
+Meeting day! Today I had a couple of meetings related to @freeCodeCamp, I'm very excited about the changes that are coming.
+
+I'm also happy to share with @ossia @rafa @nich and the rest of the team that works really hard on the platform.
