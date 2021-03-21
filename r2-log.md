@@ -388,3 +388,8 @@ Going back to my first experience with it I remember how confused I was, but now
 Meeting day! Today I had a couple of meetings related to @freeCodeCamp, I'm very excited about the changes that are coming.
 
 I'm also happy to share with @ossia @rafa @nich and the rest of the team that works really hard on the platform.
+
+### R2D71
+Today I enrolled in the new Google UX design course, it's an area I've always wanted to explore and it complements what I already know quite well.
+
+I also did the React Native 'Hello World' and translated some freeCodeCamp challenges.
