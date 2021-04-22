@@ -399,7 +399,13 @@ I also did the React Native 'Hello World' and translated some freeCodeCamp chall
 ### R2D72-D99
 Between job interviews and assignments, I stopped tracking my daily progress, but I kept coding and working toward my goals. 
 
-So here's a thread with my progress summary:
+So here's a thread with a summary of my progress in those days:
 
 
+- Entrevista con Cobuild labs
+- 8base , Graphql, etc
+- Contacto por correo de alacartadigital
+- Entrevista con alacartadigital
+- Bienvenida y primer día de trabajo
+- e-commerce chakra ui
 
