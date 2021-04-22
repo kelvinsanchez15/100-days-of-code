@@ -402,10 +402,22 @@ Between job interviews and assignments, I stopped tracking my daily progress, bu
 So here's a thread with a summary of my progress in those days:
 
 
+
 - Entrevista con Cobuild labs
-- 8base , Graphql, etc
-- Contacto por correo de alacartadigital
-- Entrevista con alacartadigital
-- Bienvenida y primer día de trabajo
-- e-commerce chakra ui
+
+In a US job offer they gave me a take home assigment where I had to do a CRUD with the following stack: React, GraphQL, Apollo and 8base. In addition I had to implement a cloud function and unit/E2E testing.
+
+It was quite a challenge as I had no experience using GraphQL, Apollo and 8base but I worked hard to learn the concepts and fulfill the user stories required.
+
+While I was finishing that assignment I received an email from someone who read my article from Next.js, a Spanish company looking for a developer with a profile like mine, so we scheduled a first interview. This was the article by the way: https://www.freecodecamp.org/espanol/news/aprende-next-js-desde-cero/
+
+Las entrevistas resultaron geniales, me sentí muy comodo con el equipo y el stack requerido (React, Next, Material UI, Firebase, etc), ya que se ajustaba perfectamente con mis habilidades.
+
+En esa misma semana obtuve ofertas de trabajo por parte de ambas empresas, tome mi decisión y me decanté por la empresa española la cual me contrató como Full Stack developer.
+
+Ya ha transcurrido casi un mes y estoy muy feliz con mi decisión,  y he aprendido un montón, ade
+
+varias de las funcionalidades en las que he trabajado ya están en producción
+tengo muy buenos seniors
+
 
