@@ -401,23 +401,18 @@ Between job interviews and assignments, I stopped tracking my daily progress, bu
 
 So here's a thread with a summary of my progress in those days:
 
-
-
-- Entrevista con Cobuild labs
-
 In a US job offer they gave me a take home assigment where I had to do a CRUD with the following stack: React, GraphQL, Apollo and 8base. In addition I had to implement a cloud function and unit/E2E testing.
 
 It was quite a challenge as I had no experience using GraphQL, Apollo and 8base but I worked hard to learn the concepts and fulfill the user stories required.
 
 While I was finishing that assignment I received an email from someone who read my article from Next.js, a Spanish company looking for a developer with a profile like mine, so we scheduled a first interview. This was the article by the way: https://www.freecodecamp.org/espanol/news/aprende-next-js-desde-cero/
 
-Las entrevistas resultaron geniales, me sentí muy comodo con el equipo y el stack requerido (React, Next, Material UI, Firebase, etc), ya que se ajustaba perfectamente con mis habilidades.
+The interviews turned out great, I felt very comfortable with the team, project an tech stack (React, Next, Material UI, Firebase, etc), as it perfectly matched my skills.
 
-En esa misma semana obtuve ofertas de trabajo por parte de ambas empresas, tome mi decisión y me decanté por la empresa española la cual me contrató como Full Stack developer.
+That same week I got job offers from both companies, I made my decision and opted for the Spanish company which hired me as a Full Stack developer.
 
-Ya ha transcurrido casi un mes y estoy muy feliz con mi decisión,  y he aprendido un montón, ade
+Almost a month has passed, I am learning a lot and acquiring new experiences every day, I have very good seniors and my bosses are great, several functionalities that I have worked on are already in production and that makes me pretty happy.
 
-varias de las funcionalidades en las que he trabajado ya están en producción
-tengo muy buenos seniors
+If you made it this far, I thank you a lot for reading! If you are following a similar path, I hope that my #100DaysOfCode encourages you to achieve your goals.
 
 
