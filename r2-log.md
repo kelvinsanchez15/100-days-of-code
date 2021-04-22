@@ -4,15 +4,15 @@ The log of my #100DaysOfCode challenge. Started on [October 05, Monday, 2020].
 
 ## Objectives / Tasks
 - [x] Apply for jobs
-- [ ] Train and prepare for jobs interviews 
-- [ ] Try freelancing
+- [x] Train and prepare for jobs interviews 
+- [x] Try freelancing
 - [x] Build strong projects for my portfolio
-- [ ] Improve projects README file
+- [x] Improve projects README file
 - [x] Connect with people / Join more coding communities
 - [x] Make Open Source contributions
 - [x] Learn PostgreSQL
 - [x] Start using TypeScript
-- [ ] Learn Enzyme/React testing library
+- [x] Learn Enzyme/React testing library
 - [x] Read books and work on my fundamentals (JavaScript, Data Structures) 
 
 ## Log
