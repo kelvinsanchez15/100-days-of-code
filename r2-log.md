@@ -393,3 +393,13 @@ I'm also happy to share with @ossia @rafa @nich and the rest of the team that wo
 Today I enrolled in the new Google UX design course, it's an area I've always wanted to explore and it complements what I already know quite well.
 
 I also did the React Native 'Hello World' and translated some freeCodeCamp challenges.
+
+
+
+### R2D72-D99
+Between job interviews and assignments, I stopped tracking my daily progress, but I kept coding and working toward my goals. 
+
+So here's a thread with my progress summary:
+
+
+
