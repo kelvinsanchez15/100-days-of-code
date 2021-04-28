@@ -407,7 +407,7 @@ It was quite a challenge as I had no experience using GraphQL, Apollo and 8base 
 
 While I was finishing that assignment I received an email from someone who read my article from Next.js, a Spanish company looking for a developer with a profile like mine, so we scheduled a first interview. This was the article by the way: https://www.freecodecamp.org/espanol/news/aprende-next-js-desde-cero/
 
-The interviews turned out great, I felt very comfortable with the team, project an tech stack (React, Next, Material UI, Firebase, etc), as it perfectly matched my skills.
+The interviews turned out great, I felt very comfortable with the team, project and tech stack (React, Next, Material UI, Firebase, etc), as it perfectly matched my skills.
 
 That same week I got job offers from both companies, I made my decision and opted for the Spanish company which hired me as a Full Stack developer.
 
