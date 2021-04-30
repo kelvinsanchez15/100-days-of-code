@@ -3,7 +3,7 @@
 ## Check my progress
 
 - [R1-log (completed)](r1-log.md)
-- [R2-log (in progress)](r2-log.md)
+- [R2-log (completed)](r2-log.md)
 
 ## Contents
 
